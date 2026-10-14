@@ -1,0 +1,30 @@
+<body>
+<header class="top">
+  <div class="brand"><span class="bv">bv</span><span class="cart">CARTÓRIOS</span><span class="tag">Portal BV Preparação</span></div>
+  <div class="st" id="topo-st"></div>
+  <button id="tema" type="button" aria-label="Alternar tema claro e escuro">Tema escuro</button>
+</header>
+<div class="cock" id="cock">
+  <aside class="rail" id="rail-esq"></aside>
+  <main class="center">
+    <nav class="tabs" role="tablist" id="abas">
+      <button class="menu-rail btn g sm" type="button" data-act="rail">☰ Disciplinas</button>
+      <button role="tab" aria-selected="true" data-v="hoje">Hoje</button>
+      <button role="tab" aria-selected="false" data-v="semana">Semana</button>
+      <button role="tab" aria-selected="false" data-v="plano">Plano</button>
+      <button role="tab" aria-selected="false" data-v="banco">Banco de questões</button>
+      <button role="tab" aria-selected="false" data-v="diag">Diagnóstico</button>
+      <button role="tab" aria-selected="false" data-v="prog">Progresso</button>
+    </nav>
+    <section class="pane on" id="v-hoje"></section>
+    <section class="pane" id="v-semana"></section>
+    <section class="pane" id="v-plano"></section>
+    <section class="pane" id="v-banco"></section>
+    <section class="pane" id="v-diag"></section>
+    <section class="pane" id="v-prog"></section>
+  </main>
+  <aside class="rail rail-r" id="rail-dir"></aside>
+</div>
+<footer><div><b>bv</b> CARTÓRIOS · Portal BV Preparação para Concursos de Cartório</div><div id="rodape-ver"></div></footer>
+<div class="toast" id="toast" role="status"></div>
+<script>
