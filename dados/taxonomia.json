@@ -1,0 +1,4221 @@
+{
+ "versao": "2026.10.14-v0.1",
+ "disciplinas": [
+  {
+   "id": "tg",
+   "nome": "Legislação Notarial e Registral",
+   "curto": "Not/Reg",
+   "ebook": "Legislação Notarial e Registral — LRP, Lei 8.935 e SERP",
+   "grupo": "Notarial e Registral",
+   "rw": 1.25
+  },
+  {
+   "id": "notas",
+   "nome": "Tabelionato de Notas",
+   "curto": "Notas",
+   "ebook": "Tabelionato de Notas",
+   "grupo": "Notarial e Registral",
+   "rw": 1.25
+  },
+  {
+   "id": "ri",
+   "nome": "Registro de Imóveis",
+   "curto": "RI",
+   "ebook": "Registro de Imóveis",
+   "grupo": "Notarial e Registral",
+   "rw": 1.25
+  },
+  {
+   "id": "rcpn",
+   "nome": "Registro Civil das Pessoas Naturais",
+   "curto": "RCPN",
+   "ebook": "Registro Civil das Pessoas Naturais",
+   "grupo": "Notarial e Registral",
+   "rw": 1.25
+  },
+  {
+   "id": "rtd",
+   "nome": "RTD e RCPJ",
+   "curto": "RTD/RCPJ",
+   "ebook": "Registro de Títulos e Documentos e RCPJ",
+   "grupo": "Notarial e Registral",
+   "rw": 1.25
+  },
+  {
+   "id": "prot",
+   "nome": "Tabelionato de Protesto",
+   "curto": "Protesto",
+   "ebook": "Tabelionato de Protesto",
+   "grupo": "Notarial e Registral",
+   "rw": 1.25
+  },
+  {
+   "id": "mlg",
+   "nome": "Marco Legal das Garantias",
+   "curto": "MLG",
+   "ebook": "Marco Legal das Garantias",
+   "grupo": "Notarial e Registral",
+   "rw": 1.1
+  },
+  {
+   "id": "leg",
+   "nome": "Legislação Especial",
+   "curto": "Leg. Especial",
+   "ebook": "Legislação Especial",
+   "grupo": "Notarial e Registral",
+   "rw": 1.0
+  },
+  {
+   "id": "civil",
+   "nome": "Direito Civil",
+   "curto": "Civil",
+   "ebook": "Direito Civil",
+   "grupo": "Direito Privado",
+   "rw": 1.0
+  },
+  {
+   "id": "emp",
+   "nome": "Direito Empresarial",
+   "curto": "Empresarial",
+   "ebook": "Direito Empresarial",
+   "grupo": "Direito Privado",
+   "rw": 0.8
+  },
+  {
+   "id": "consti",
+   "nome": "Direito Constitucional",
+   "curto": "Constitucional",
+   "ebook": "Direito Constitucional",
+   "grupo": "Direito Público",
+   "rw": 0.8
+  },
+  {
+   "id": "adm",
+   "nome": "Direito Administrativo",
+   "curto": "Administrativo",
+   "ebook": "Direito Administrativo",
+   "grupo": "Direito Público",
+   "rw": 0.8
+  },
+  {
+   "id": "trib",
+   "nome": "Direito Tributário",
+   "curto": "Tributário",
+   "ebook": "Direito Tributário",
+   "grupo": "Direito Público",
+   "rw": 0.8
+  },
+  {
+   "id": "pcivil",
+   "nome": "Direito Processual Civil",
+   "curto": "Processo Civil",
+   "ebook": "Processo Civil",
+   "grupo": "Direito Público",
+   "rw": 0.8
+  }
+ ],
+ "temas": [
+  {
+   "id": "L1",
+   "disc": "tg",
+   "nome": "LRP — parte geral (Título I): atribuições, escrituração, ordem do serviço, publicidade, certidões, conservação e responsabilidade",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 8,
+   "pf": 27,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "L1.1",
+     "nome": "Parte geral : atribuições"
+    },
+    {
+     "id": "L1.2",
+     "nome": "Escrituração"
+    },
+    {
+     "id": "L1.3",
+     "nome": "Ordem do serviço"
+    },
+    {
+     "id": "L1.4",
+     "nome": "Publicidade"
+    },
+    {
+     "id": "L1.5",
+     "nome": "Certidões"
+    },
+    {
+     "id": "L1.6",
+     "nome": "Conservação"
+    },
+    {
+     "id": "L1.7",
+     "nome": "Responsabilidade"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "L5",
+   "disc": "tg",
+   "nome": "Lei 8.935/94 — natureza e fins dos serviços notariais e de registro; notários e registradores; cessão de precatório (Lei 14.711/2023)",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 112,
+   "pf": 126,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "L5.1",
+     "nome": "Natureza"
+    },
+    {
+     "id": "L5.2",
+     "nome": "Fins dos serviços notariais"
+    },
+    {
+     "id": "L5.3",
+     "nome": "De registro"
+    },
+    {
+     "id": "L5.4",
+     "nome": "Notários"
+    },
+    {
+     "id": "L5.5",
+     "nome": "Registradores"
+    },
+    {
+     "id": "L5.6",
+     "nome": "Cessão de precatório"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "L6",
+   "disc": "tg",
+   "nome": "Lei 8.935/94 — normas comuns: ingresso, prepostos, responsabilidade civil e criminal, incompatibilidades, direitos e deveres, emolumentos, infrações e penalidades",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 127,
+   "pf": 151,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "L6.1",
+     "nome": "Normas comuns: ingresso"
+    },
+    {
+     "id": "L6.2",
+     "nome": "Prepostos"
+    },
+    {
+     "id": "L6.3",
+     "nome": "Responsabilidade civil"
+    },
+    {
+     "id": "L6.4",
+     "nome": "Criminal"
+    },
+    {
+     "id": "L6.5",
+     "nome": "Incompatibilidades"
+    },
+    {
+     "id": "L6.6",
+     "nome": "Direitos"
+    },
+    {
+     "id": "L6.7",
+     "nome": "Deveres"
+    },
+    {
+     "id": "L6.8",
+     "nome": "Emolumentos"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "L7",
+   "disc": "tg",
+   "nome": "Lei 14.382/2022 — SERP: abrangência, princípios, ONR, ON-RCPN e ON-RTDPJ, fundo de custeio, extrato eletrônico, qualificação digital-formal, assinaturas eletrônicas e acesso à base de dados",
+   "h": 3.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 152,
+   "pf": 193,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "L7.1",
+     "nome": "SERP: abrangência"
+    },
+    {
+     "id": "L7.2",
+     "nome": "Princípios"
+    },
+    {
+     "id": "L7.3",
+     "nome": "ON-RCPN e ON-RTDPJ"
+    },
+    {
+     "id": "L7.4",
+     "nome": "Fundo de custeio"
+    },
+    {
+     "id": "L7.5",
+     "nome": "Extrato eletrônico"
+    },
+    {
+     "id": "L7.6",
+     "nome": "Qualificação digital-formal"
+    },
+    {
+     "id": "L7.7",
+     "nome": "Assinaturas eletrônicas"
+    },
+    {
+     "id": "L7.8",
+     "nome": "Acesso à base de dados"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "L8",
+   "disc": "tg",
+   "nome": "Provimento CSM/TJSP 2.753/2024 — gestão de precatórios (norma local; leitura complementar)",
+   "h": 1.0,
+   "prio": 4,
+   "ebook": true,
+   "pi": 194,
+   "pf": 209,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "L8.1",
+     "nome": "Gestão de precatórios"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N1",
+   "disc": "notas",
+   "nome": "Teoria geral do notariado, sistemas notariais, o notário, fontes, função notarial, desjudicialização e fé pública",
+   "h": 1.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 8,
+   "pf": 27,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N1.1",
+     "nome": "Teoria geral do notariado"
+    },
+    {
+     "id": "N1.2",
+     "nome": "Sistemas notariais"
+    },
+    {
+     "id": "N1.3",
+     "nome": "O notário"
+    },
+    {
+     "id": "N1.4",
+     "nome": "Fontes"
+    },
+    {
+     "id": "N1.5",
+     "nome": "Função notarial"
+    },
+    {
+     "id": "N1.6",
+     "nome": "Desjudicialização"
+    },
+    {
+     "id": "N1.7",
+     "nome": "Fé pública"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N2",
+   "disc": "notas",
+   "nome": "Princípios notariais, natureza jurídica e responsabilidade civil do notário e do Estado",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 28,
+   "pf": 39,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N2.1",
+     "nome": "Princípios notariais"
+    },
+    {
+     "id": "N2.2",
+     "nome": "Natureza jurídica"
+    },
+    {
+     "id": "N2.3",
+     "nome": "Responsabilidade civil do notário"
+    },
+    {
+     "id": "N2.4",
+     "nome": "Do Estado"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N3",
+   "disc": "notas",
+   "nome": "Atribuições e competências material e territorial, Res. 571/2024, livros, classificação dos atos e correção de erros",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 40,
+   "pf": 63,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N3.1",
+     "nome": "Atribuições"
+    },
+    {
+     "id": "N3.2",
+     "nome": "Competências material"
+    },
+    {
+     "id": "N3.3",
+     "nome": "Territorial"
+    },
+    {
+     "id": "N3.4",
+     "nome": "Res. 571/2024"
+    },
+    {
+     "id": "N3.5",
+     "nome": "Livros"
+    },
+    {
+     "id": "N3.6",
+     "nome": "Classificação dos atos"
+    },
+    {
+     "id": "N3.7",
+     "nome": "Correção de erros"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N4",
+   "disc": "notas",
+   "nome": "Autenticação de cópias e reconhecimento de firma (semelhança e autenticidade)",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 64,
+   "pf": 75,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N4.1",
+     "nome": "Autenticação de cópias"
+    },
+    {
+     "id": "N4.2",
+     "nome": "Reconhecimento de firma"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N5",
+   "disc": "notas",
+   "nome": "Ata notarial, inclusive para usucapião e adjudicação compulsória",
+   "h": 2.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 76,
+   "pf": 104,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N5.1",
+     "nome": "Ata notarial"
+    },
+    {
+     "id": "N5.2",
+     "nome": "Inclusive para usucapião"
+    },
+    {
+     "id": "N5.3",
+     "nome": "Adjudicação compulsória"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N6",
+   "disc": "notas",
+   "nome": "Cartas de sentença notariais e procuração: substabelecimento, revogação e renúncia",
+   "h": 0.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 105,
+   "pf": 114,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N6.1",
+     "nome": "Cartas de sentença notariais"
+    },
+    {
+     "id": "N6.2",
+     "nome": "Procuração: substabelecimento"
+    },
+    {
+     "id": "N6.3",
+     "nome": "Revogação"
+    },
+    {
+     "id": "N6.4",
+     "nome": "Renúncia"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N7",
+   "disc": "notas",
+   "nome": "Testamento público e cerrado; diretivas antecipadas de vontade",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 115,
+   "pf": 126,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N7.1",
+     "nome": "Testamento público"
+    },
+    {
+     "id": "N7.2",
+     "nome": "Cerrado"
+    },
+    {
+     "id": "N7.3",
+     "nome": "Diretivas antecipadas de vontade"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N8",
+   "disc": "notas",
+   "nome": "Escritura pública; contratos inteligentes e a smart escritura",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 127,
+   "pf": 146,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N8.1",
+     "nome": "Escritura pública"
+    },
+    {
+     "id": "N8.2",
+     "nome": "Contratos inteligentes"
+    },
+    {
+     "id": "N8.3",
+     "nome": "A smart escritura"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N9",
+   "disc": "notas",
+   "nome": "Resolução CNJ 35/2007: escrituras de inventário, partilha, separação e divórcio",
+   "h": 2.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 147,
+   "pf": 184,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N9.1",
+     "nome": "Resolução CNJ 35/2007: escrituras de inventário"
+    },
+    {
+     "id": "N9.2",
+     "nome": "Partilha"
+    },
+    {
+     "id": "N9.3",
+     "nome": "Separação"
+    },
+    {
+     "id": "N9.4",
+     "nome": "Divórcio"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N10",
+   "disc": "notas",
+   "nome": "A virada existencial do notariado, planejamento sucessório (CNN, arts. 110-A e 110-B) e DOI",
+   "h": 0.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 185,
+   "pf": 192,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N10.1",
+     "nome": "A virada existencial do notariado"
+    },
+    {
+     "id": "N10.2",
+     "nome": "Planejamento sucessório  e DOI"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N11",
+   "disc": "notas",
+   "nome": "CENSEC no CNN: RCTO, CESDI, CEP e CNSIP; fiscalização e acesso",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 193,
+   "pf": 212,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N11.1",
+     "nome": "RCTO"
+    },
+    {
+     "id": "N11.2",
+     "nome": "CESDI"
+    },
+    {
+     "id": "N11.3",
+     "nome": "CEP e CNSIP"
+    },
+    {
+     "id": "N11.4",
+     "nome": "Fiscalização"
+    },
+    {
+     "id": "N11.5",
+     "nome": "Acesso"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N12",
+   "disc": "notas",
+   "nome": "Lei 11.441/2007 e Res. 35/2007: inventário, partilha, separação e divórcio consensuais; separação de fato (Res. 571/2024)",
+   "h": 1.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 213,
+   "pf": 231,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N12.1",
+     "nome": "Lei 11.441/2007 e Res. 35/2007: inventário"
+    },
+    {
+     "id": "N12.2",
+     "nome": "Partilha"
+    },
+    {
+     "id": "N12.3",
+     "nome": "Separação"
+    },
+    {
+     "id": "N12.4",
+     "nome": "Divórcio consensuais"
+    },
+    {
+     "id": "N12.5",
+     "nome": "Separação de fato"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "N13",
+   "disc": "notas",
+   "nome": "Atos notariais eletrônicos no CNN: e-Notariado, competência territorial e matrícula notarial eletrônica",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 232,
+   "pf": 257,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "N13.1",
+     "nome": "Atos notariais eletrônicos no CNN: e-Notariado"
+    },
+    {
+     "id": "N13.2",
+     "nome": "Competência territorial"
+    },
+    {
+     "id": "N13.3",
+     "nome": "Matrícula notarial eletrônica"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R1",
+   "disc": "ri",
+   "nome": "Evolução histórica, registro de imóveis digital e inteligente e sistemas registrais imobiliários",
+   "h": 2.0,
+   "prio": 2,
+   "ebook": true,
+   "pi": 9,
+   "pf": 40,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R1.1",
+     "nome": "Evolução histórica"
+    },
+    {
+     "id": "R1.2",
+     "nome": "Registro de imóveis digital"
+    },
+    {
+     "id": "R1.3",
+     "nome": "Inteligente"
+    },
+    {
+     "id": "R1.4",
+     "nome": "Sistemas registrais imobiliários"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R2",
+   "disc": "ri",
+   "nome": "Conceito, natureza jurídica, objeto e princípios registrais",
+   "h": 2.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 41,
+   "pf": 70,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R2.1",
+     "nome": "Conceito"
+    },
+    {
+     "id": "R2.2",
+     "nome": "Natureza jurídica"
+    },
+    {
+     "id": "R2.3",
+     "nome": "Objeto"
+    },
+    {
+     "id": "R2.4",
+     "nome": "Princípios registrais"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R3",
+   "disc": "ri",
+   "nome": "Competência material e territorial, responsabilidade civil do registrador, escrituração e livros",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 71,
+   "pf": 89,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R3.1",
+     "nome": "Competência material"
+    },
+    {
+     "id": "R3.2",
+     "nome": "Territorial"
+    },
+    {
+     "id": "R3.3",
+     "nome": "Responsabilidade civil do registrador"
+    },
+    {
+     "id": "R3.4",
+     "nome": "Escrituração"
+    },
+    {
+     "id": "R3.5",
+     "nome": "Livros"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R4",
+   "disc": "ri",
+   "nome": "Forma da prática dos atos registrais; atribuições: registro e averbação",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 90,
+   "pf": 114,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R4.1",
+     "nome": "Forma da prática dos atos registrais"
+    },
+    {
+     "id": "R4.2",
+     "nome": "Atribuições: registro"
+    },
+    {
+     "id": "R4.3",
+     "nome": "Averbação"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R5",
+   "disc": "ri",
+   "nome": "Processo do registro: protocolo e prenotação, qualificação, qualificação digital-formal e assinaturas eletrônicas",
+   "h": 2.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 115,
+   "pf": 148,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R5.1",
+     "nome": "Processo do registro: protocolo"
+    },
+    {
+     "id": "R5.2",
+     "nome": "Prenotação"
+    },
+    {
+     "id": "R5.3",
+     "nome": "Qualificação"
+    },
+    {
+     "id": "R5.4",
+     "nome": "Qualificação digital-formal"
+    },
+    {
+     "id": "R5.5",
+     "nome": "Assinaturas eletrônicas"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R6",
+   "disc": "ri",
+   "nome": "Procedimento de dúvida, dúvida inversa, pedido de providências e cancelamento dos atos",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 149,
+   "pf": 174,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R6.1",
+     "nome": "Procedimento de dúvida"
+    },
+    {
+     "id": "R6.2",
+     "nome": "Dúvida inversa"
+    },
+    {
+     "id": "R6.3",
+     "nome": "Pedido de providências"
+    },
+    {
+     "id": "R6.4",
+     "nome": "Cancelamento dos atos"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R7",
+   "disc": "ri",
+   "nome": "Títulos; matrícula: unicidade, abertura, bloqueio, cancelamento, fusão e Código Nacional de Matrícula",
+   "h": 2.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 175,
+   "pf": 207,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R7.1",
+     "nome": "Títulos"
+    },
+    {
+     "id": "R7.2",
+     "nome": "Matrícula: unicidade"
+    },
+    {
+     "id": "R7.3",
+     "nome": "Abertura"
+    },
+    {
+     "id": "R7.4",
+     "nome": "Bloqueio"
+    },
+    {
+     "id": "R7.5",
+     "nome": "Cancelamento"
+    },
+    {
+     "id": "R7.6",
+     "nome": "Fusão e Código Nacional de Matrícula"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R8",
+   "disc": "ri",
+   "nome": "Retificação do registro (arts. 212 e 213) e execução extrajudicial da hipoteca",
+   "h": 2.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 208,
+   "pf": 238,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R8.1",
+     "nome": "Retificação do registro"
+    },
+    {
+     "id": "R8.2",
+     "nome": "Execução extrajudicial da hipoteca"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R9",
+   "disc": "ri",
+   "nome": "Procedimentos especiais: CNIB, restauração e suprimento administrativo, saneamento da matrícula e autotutela",
+   "h": 1.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 239,
+   "pf": 258,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R9.1",
+     "nome": "Procedimentos especiais: CNIB"
+    },
+    {
+     "id": "R9.2",
+     "nome": "Restauração"
+    },
+    {
+     "id": "R9.3",
+     "nome": "Suprimento administrativo"
+    },
+    {
+     "id": "R9.4",
+     "nome": "Saneamento da matrícula"
+    },
+    {
+     "id": "R9.5",
+     "nome": "Autotutela"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R10",
+   "disc": "ri",
+   "nome": "Usucapião extrajudicial: requisitos, procedimento, notificações, impugnações e imóvel rural",
+   "h": 2.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 259,
+   "pf": 290,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R10.1",
+     "nome": "Usucapião extrajudicial: requisitos"
+    },
+    {
+     "id": "R10.2",
+     "nome": "Procedimento"
+    },
+    {
+     "id": "R10.3",
+     "nome": "Notificações"
+    },
+    {
+     "id": "R10.4",
+     "nome": "Impugnações"
+    },
+    {
+     "id": "R10.5",
+     "nome": "Imóvel rural"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R11",
+   "disc": "ri",
+   "nome": "Terras indígenas e adjudicação compulsória extrajudicial",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 291,
+   "pf": 310,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R11.1",
+     "nome": "Terras indígenas"
+    },
+    {
+     "id": "R11.2",
+     "nome": "Adjudicação compulsória extrajudicial"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R12",
+   "disc": "ri",
+   "nome": "SREI no CNN (Prov. 195/2025), CIB, SINTER e MCDA no SERP",
+   "h": 1.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 311,
+   "pf": 335,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R12.1",
+     "nome": "SREI no CNN"
+    },
+    {
+     "id": "R12.2",
+     "nome": "SINTER e MCDA no SERP"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "R13",
+   "disc": "ri",
+   "nome": "Tokenização imobiliária e o sistema registral",
+   "h": 0.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 336,
+   "pf": 341,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "R13.1",
+     "nome": "Tokenização imobiliária"
+    },
+    {
+     "id": "R13.2",
+     "nome": "O sistema registral"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "M1",
+   "disc": "mlg",
+   "nome": "Marco Legal das Garantias: mens legis, recarga da garantia real e execução extrajudicial do crédito hipotecário",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 4,
+   "pf": 19,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "M1.1",
+     "nome": "Marco Legal das Garantias: mens legis"
+    },
+    {
+     "id": "M1.2",
+     "nome": "Recarga da garantia real"
+    },
+    {
+     "id": "M1.3",
+     "nome": "Execução extrajudicial do crédito hipotecário"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "M2",
+   "disc": "mlg",
+   "nome": "Concurso especial de créditos com garantia imobiliária (art. 10 da Lei 14.711/2023)",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 20,
+   "pf": 32,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "M2.1",
+     "nome": "Concurso especial de créditos com garantia imobiliária"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "M3",
+   "disc": "mlg",
+   "nome": "DL 911/1969: consolidação e busca e apreensão extrajudicial de bem móvel",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 33,
+   "pf": 44,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "M3.1",
+     "nome": "DL 911/1969: consolidação"
+    },
+    {
+     "id": "M3.2",
+     "nome": "Busca"
+    },
+    {
+     "id": "M3.3",
+     "nome": "Apreensão extrajudicial de bem móvel"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "E1",
+   "disc": "leg",
+   "nome": "Lei 4.591/1964 — incorporação imobiliária: incorporador, patrimônio de afetação, RET, registro da incorporação, qualificação registral e regimes de construção",
+   "h": 2.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 6,
+   "pf": 33,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "E1.1",
+     "nome": "Incorporação imobiliária: incorporador"
+    },
+    {
+     "id": "E1.2",
+     "nome": "Patrimônio de afetação"
+    },
+    {
+     "id": "E1.3",
+     "nome": "Registro da incorporação"
+    },
+    {
+     "id": "E1.4",
+     "nome": "Qualificação registral"
+    },
+    {
+     "id": "E1.5",
+     "nome": "Regimes de construção"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "E2",
+   "disc": "leg",
+   "nome": "Lei 5.709/1971 — aquisição de imóvel rural por estrangeiro: restrições, assentimento da SECDN, livro auxiliar e dever de comunicação",
+   "h": 1.0,
+   "prio": 2,
+   "ebook": true,
+   "pi": 34,
+   "pf": 46,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "E2.1",
+     "nome": "Aquisição de imóvel rural por estrangeiro: restrições"
+    },
+    {
+     "id": "E2.2",
+     "nome": "Assentimento da SECDN"
+    },
+    {
+     "id": "E2.3",
+     "nome": "Livro auxiliar"
+    },
+    {
+     "id": "E2.4",
+     "nome": "Dever de comunicação"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "E3",
+   "disc": "leg",
+   "nome": "Lei 6.766/1979 — parcelamento do solo urbano: loteamento, desmembramento e desdobro, requisitos urbanísticos, projeto, registro especial, regime de afetação (art. 18-A), contratos e disposições penais",
+   "h": 2.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 47,
+   "pf": 75,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "E3.1",
+     "nome": "Parcelamento do solo urbano: loteamento"
+    },
+    {
+     "id": "E3.2",
+     "nome": "Desmembramento"
+    },
+    {
+     "id": "E3.3",
+     "nome": "Desdobro"
+    },
+    {
+     "id": "E3.4",
+     "nome": "Requisitos urbanísticos"
+    },
+    {
+     "id": "E3.5",
+     "nome": "Projeto"
+    },
+    {
+     "id": "E3.6",
+     "nome": "Registro especial"
+    },
+    {
+     "id": "E3.7",
+     "nome": "Regime de afetação"
+    },
+    {
+     "id": "E3.8",
+     "nome": "Contratos"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "E4",
+   "disc": "leg",
+   "nome": "Lei 9.514/1997 — alienação fiduciária de coisa imóvel: conceito, objeto, constituição, alienação fiduciária superveniente e sucessivas",
+   "h": 2.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 76,
+   "pf": 110,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "E4.1",
+     "nome": "Alienação fiduciária de coisa imóvel: conceito"
+    },
+    {
+     "id": "E4.2",
+     "nome": "Objeto"
+    },
+    {
+     "id": "E4.3",
+     "nome": "Constituição"
+    },
+    {
+     "id": "E4.4",
+     "nome": "Alienação fiduciária superveniente"
+    },
+    {
+     "id": "E4.5",
+     "nome": "Sucessivas"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "E5",
+   "disc": "leg",
+   "nome": "Lei 9.514/1997 — inadimplemento, consolidação da propriedade, leilões, taxa de ocupação; Lei 13.476/2017 e a extensão da garantia (Lei 14.711/2023)",
+   "h": 2.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 111,
+   "pf": 144,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "E5.1",
+     "nome": "Inadimplemento"
+    },
+    {
+     "id": "E5.2",
+     "nome": "Consolidação da propriedade"
+    },
+    {
+     "id": "E5.3",
+     "nome": "Leilões"
+    },
+    {
+     "id": "E5.4",
+     "nome": "Taxa de ocupação"
+    },
+    {
+     "id": "E5.5",
+     "nome": "Lei 13.476/2017"
+    },
+    {
+     "id": "E5.6",
+     "nome": "A extensão da garantia"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "E6",
+   "disc": "leg",
+   "nome": "Reurb — Lei 13.465/2017 e Lei 11.977/2009: conceito, princípios, modalidades, núcleo urbano informal e tipos de imóveis regularizáveis",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 145,
+   "pf": 170,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "E6.1",
+     "nome": "Lei 13.465/2017 e Lei 11.977/2009: conceito"
+    },
+    {
+     "id": "E6.2",
+     "nome": "Princípios"
+    },
+    {
+     "id": "E6.3",
+     "nome": "Modalidades"
+    },
+    {
+     "id": "E6.4",
+     "nome": "Núcleo urbano informal"
+    },
+    {
+     "id": "E6.5",
+     "nome": "Tipos de imóveis regularizáveis"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "E7",
+   "disc": "leg",
+   "nome": "Reurb — formas de regularização, legitimados, procedimento, CRF, qualificação registral, emolumentos e mecanismos de titulação (legitimação fundiária e de posse)",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 171,
+   "pf": 192,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "E7.1",
+     "nome": "Formas de regularização"
+    },
+    {
+     "id": "E7.2",
+     "nome": "Legitimados"
+    },
+    {
+     "id": "E7.3",
+     "nome": "Procedimento"
+    },
+    {
+     "id": "E7.4",
+     "nome": "Qualificação registral"
+    },
+    {
+     "id": "E7.5",
+     "nome": "Emolumentos"
+    },
+    {
+     "id": "E7.6",
+     "nome": "Mecanismos de titulação"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C1",
+   "disc": "rcpn",
+   "nome": "Cidadania e RCPN, estado civil, emolumentos e gratuidades",
+   "h": 1.0,
+   "prio": 2,
+   "ebook": true,
+   "pi": 8,
+   "pf": 19,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C1.1",
+     "nome": "Cidadania e RCPN"
+    },
+    {
+     "id": "C1.2",
+     "nome": "Estado civil"
+    },
+    {
+     "id": "C1.3",
+     "nome": "Emolumentos"
+    },
+    {
+     "id": "C1.4",
+     "nome": "Gratuidades"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C2",
+   "disc": "rcpn",
+   "nome": "Fundos de compensação e renda mínima — panorama por estado",
+   "h": 1.0,
+   "prio": 4,
+   "ebook": true,
+   "pi": 20,
+   "pf": 33,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C2.1",
+     "nome": "Panorama por estado"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C3",
+   "disc": "rcpn",
+   "nome": "Disposições gerais, novas atribuições (Lei 14.711/2023), IdRC, escrituração e ordem de serviço, CRC e atos praticados",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 34,
+   "pf": 54,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C3.1",
+     "nome": "Disposições gerais"
+    },
+    {
+     "id": "C3.2",
+     "nome": "Novas atribuições"
+    },
+    {
+     "id": "C3.3",
+     "nome": "IdRC"
+    },
+    {
+     "id": "C3.4",
+     "nome": "Escrituração"
+    },
+    {
+     "id": "C3.5",
+     "nome": "Ordem de serviço"
+    },
+    {
+     "id": "C3.6",
+     "nome": "Atos praticados"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C4",
+   "disc": "rcpn",
+   "nome": "Nascimento: territorialidade, DNV, prazo, procedimento, natimorto, nome e situações especiais",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 55,
+   "pf": 75,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C4.1",
+     "nome": "Nascimento: territorialidade"
+    },
+    {
+     "id": "C4.2",
+     "nome": "Prazo"
+    },
+    {
+     "id": "C4.3",
+     "nome": "Procedimento"
+    },
+    {
+     "id": "C4.4",
+     "nome": "Natimorto"
+    },
+    {
+     "id": "C4.5",
+     "nome": "Nome"
+    },
+    {
+     "id": "C4.6",
+     "nome": "Situações especiais"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C5",
+   "disc": "rcpn",
+   "nome": "Casamento: habilitação, celebração, religioso com efeito civil, moléstia grave e iminente risco de vida; divórcio consensual",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 76,
+   "pf": 93,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C5.1",
+     "nome": "Casamento: habilitação"
+    },
+    {
+     "id": "C5.2",
+     "nome": "Celebração"
+    },
+    {
+     "id": "C5.3",
+     "nome": "Religioso com efeito civil"
+    },
+    {
+     "id": "C5.4",
+     "nome": "Moléstia grave"
+    },
+    {
+     "id": "C5.5",
+     "nome": "Iminente risco de vida"
+    },
+    {
+     "id": "C5.6",
+     "nome": "Divórcio consensual"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C6",
+   "disc": "rcpn",
+   "nome": "Óbito: assento, morte presumida com e sem ausência, retificação",
+   "h": 2.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 94,
+   "pf": 120,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C6.1",
+     "nome": "Assento"
+    },
+    {
+     "id": "C6.2",
+     "nome": "Morte presumida com"
+    },
+    {
+     "id": "C6.3",
+     "nome": "Sem ausência"
+    },
+    {
+     "id": "C6.4",
+     "nome": "Retificação"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C7",
+   "disc": "rcpn",
+   "nome": "Emancipação, interdição e ausência; registro da união estável (CNN, art. 537 e seguintes)",
+   "h": 0.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 121,
+   "pf": 130,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C7.1",
+     "nome": "Emancipação"
+    },
+    {
+     "id": "C7.2",
+     "nome": "Interdição"
+    },
+    {
+     "id": "C7.3",
+     "nome": "Ausência"
+    },
+    {
+     "id": "C7.4",
+     "nome": "Registro da união estável"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C8",
+   "disc": "rcpn",
+   "nome": "Nacionalidade e reflexos no RCPN, estrangeiro, sentença estrangeira de divórcio e registro da adoção",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 131,
+   "pf": 149,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C8.1",
+     "nome": "Nacionalidade"
+    },
+    {
+     "id": "C8.2",
+     "nome": "Reflexos no RCPN"
+    },
+    {
+     "id": "C8.3",
+     "nome": "Estrangeiro"
+    },
+    {
+     "id": "C8.4",
+     "nome": "Sentença estrangeira de divórcio"
+    },
+    {
+     "id": "C8.5",
+     "nome": "Registro da adoção"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C9",
+   "disc": "rcpn",
+   "nome": "Averbações, anotações, retificações, restaurações e suprimentos",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 150,
+   "pf": 162,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C9.1",
+     "nome": "Averbações"
+    },
+    {
+     "id": "C9.2",
+     "nome": "Anotações"
+    },
+    {
+     "id": "C9.3",
+     "nome": "Retificações"
+    },
+    {
+     "id": "C9.4",
+     "nome": "Restaurações"
+    },
+    {
+     "id": "C9.5",
+     "nome": "Suprimentos"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C10",
+   "disc": "rcpn",
+   "nome": "LGPD e proteção de dados no RCPN (CNN, arts. 79 a 135)",
+   "h": 1.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 163,
+   "pf": 188,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C10.1",
+     "nome": "LGPD"
+    },
+    {
+     "id": "C10.2",
+     "nome": "Proteção de dados no RCPN"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C11",
+   "disc": "rcpn",
+   "nome": "Registro do indígena, unidades interligadas, reconhecimento de paternidade e adoção unilateral",
+   "h": 2.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 189,
+   "pf": 222,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C11.1",
+     "nome": "Registro do indígena"
+    },
+    {
+     "id": "C11.2",
+     "nome": "Unidades interligadas"
+    },
+    {
+     "id": "C11.3",
+     "nome": "Reconhecimento de paternidade"
+    },
+    {
+     "id": "C11.4",
+     "nome": "Adoção unilateral"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "C12",
+   "disc": "rcpn",
+   "nome": "Modelos únicos de certidão, socioafetividade, reprodução assistida e traslado de assentos do exterior (Res. CNJ 583/2024)",
+   "h": 2.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 223,
+   "pf": 261,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "C12.1",
+     "nome": "Modelos únicos de certidão"
+    },
+    {
+     "id": "C12.2",
+     "nome": "Socioafetividade"
+    },
+    {
+     "id": "C12.3",
+     "nome": "Reprodução assistida"
+    },
+    {
+     "id": "C12.4",
+     "nome": "Traslado de assentos do exterior"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "D1",
+   "disc": "rtd",
+   "nome": "RTD: origem, conceito e funções, distinção do Registro de Imóveis e princípios",
+   "h": 0.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 5,
+   "pf": 14,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "D1.1",
+     "nome": "RTD: origem"
+    },
+    {
+     "id": "D1.2",
+     "nome": "Conceito"
+    },
+    {
+     "id": "D1.3",
+     "nome": "Funções"
+    },
+    {
+     "id": "D1.4",
+     "nome": "Distinção do Registro de Imóveis"
+    },
+    {
+     "id": "D1.5",
+     "nome": "Princípios"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "D2",
+   "disc": "rtd",
+   "nome": "Atribuições do RTD: instrumentos particulares, ecossistema SERP (Prov. 229/2026), penhor, caução, arrendamento, locação, documentos estrangeiros, alienação fiduciária e constrições",
+   "h": 3.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 15,
+   "pf": 57,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "D2.1",
+     "nome": "Atribuições do RTD: instrumentos particulares"
+    },
+    {
+     "id": "D2.2",
+     "nome": "Ecossistema SERP"
+    },
+    {
+     "id": "D2.3",
+     "nome": "Penhor"
+    },
+    {
+     "id": "D2.4",
+     "nome": "Caução"
+    },
+    {
+     "id": "D2.5",
+     "nome": "Arrendamento"
+    },
+    {
+     "id": "D2.6",
+     "nome": "Locação"
+    },
+    {
+     "id": "D2.7",
+     "nome": "Documentos estrangeiros"
+    },
+    {
+     "id": "D2.8",
+     "nome": "Alienação fiduciária"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "D3",
+   "disc": "rtd",
+   "nome": "Marco Legal das Garantias no RTD: DL 911/1969, consolidação extrajudicial da propriedade e busca e apreensão",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 58,
+   "pf": 76,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "D3.1",
+     "nome": "Marco Legal das Garantias no RTD: DL 911/1969"
+    },
+    {
+     "id": "D3.2",
+     "nome": "Consolidação extrajudicial da propriedade"
+    },
+    {
+     "id": "D3.3",
+     "nome": "Busca"
+    },
+    {
+     "id": "D3.4",
+     "nome": "Apreensão"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "D4",
+   "disc": "rtd",
+   "nome": "RTD: competência territorial, livros, qualificação, prazo, notificações e cancelamento",
+   "h": 0.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 77,
+   "pf": 85,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "D4.1",
+     "nome": "RTD: competência territorial"
+    },
+    {
+     "id": "D4.2",
+     "nome": "Livros"
+    },
+    {
+     "id": "D4.3",
+     "nome": "Qualificação"
+    },
+    {
+     "id": "D4.4",
+     "nome": "Prazo"
+    },
+    {
+     "id": "D4.5",
+     "nome": "Notificações"
+    },
+    {
+     "id": "D4.6",
+     "nome": "Cancelamento"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "D5",
+   "disc": "rtd",
+   "nome": "RCPJ: conceito e natureza jurídica, princípios, atribuições, qualificação, livros, gestão documental e publicidade",
+   "h": 2.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 86,
+   "pf": 120,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "D5.1",
+     "nome": "RCPJ: conceito"
+    },
+    {
+     "id": "D5.2",
+     "nome": "Natureza jurídica"
+    },
+    {
+     "id": "D5.3",
+     "nome": "Princípios"
+    },
+    {
+     "id": "D5.4",
+     "nome": "Atribuições"
+    },
+    {
+     "id": "D5.5",
+     "nome": "Qualificação"
+    },
+    {
+     "id": "D5.6",
+     "nome": "Livros"
+    },
+    {
+     "id": "D5.7",
+     "nome": "Gestão documental"
+    },
+    {
+     "id": "D5.8",
+     "nome": "Publicidade"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "D6",
+   "disc": "rtd",
+   "nome": "Registro das pessoas jurídicas em espécie; matrícula de jornais, radiodifusão e agências de notícias",
+   "h": 4.0,
+   "prio": 2,
+   "ebook": true,
+   "pi": 121,
+   "pf": 178,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "D6.1",
+     "nome": "Registro das pessoas jurídicas em espécie"
+    },
+    {
+     "id": "D6.2",
+     "nome": "Matrícula de jornais"
+    },
+    {
+     "id": "D6.3",
+     "nome": "Radiodifusão"
+    },
+    {
+     "id": "D6.4",
+     "nome": "Agências de notícias"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "D7",
+   "disc": "rtd",
+   "nome": "RTD e RCPJ no CNN/CNJ-Extra: notificações, hipóteses de especial cautela e central do RTDPJ",
+   "h": 0.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 179,
+   "pf": 185,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "D7.1",
+     "nome": "RTD e RCPJ no CNN/CNJ-Extra: notificações"
+    },
+    {
+     "id": "D7.2",
+     "nome": "Hipóteses de especial cautela"
+    },
+    {
+     "id": "D7.3",
+     "nome": "Central do RTDPJ"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "P1",
+   "disc": "prot",
+   "nome": "Protesto: introdução, origem, conceito, natureza jurídica, regime jurídico, finalidade e objeto",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 4,
+   "pf": 28,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "P1.1",
+     "nome": "Protesto: introdução"
+    },
+    {
+     "id": "P1.2",
+     "nome": "Origem"
+    },
+    {
+     "id": "P1.3",
+     "nome": "Conceito"
+    },
+    {
+     "id": "P1.4",
+     "nome": "Natureza jurídica"
+    },
+    {
+     "id": "P1.5",
+     "nome": "Regime jurídico"
+    },
+    {
+     "id": "P1.6",
+     "nome": "Finalidade"
+    },
+    {
+     "id": "P1.7",
+     "nome": "Objeto"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "P2",
+   "disc": "prot",
+   "nome": "Efeitos do protesto e classificação: por falta de pagamento, aceite e devolução; protesto especial e falimentar",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 29,
+   "pf": 46,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "P2.1",
+     "nome": "Efeitos do protesto"
+    },
+    {
+     "id": "P2.2",
+     "nome": "Classificação: por falta de pagamento"
+    },
+    {
+     "id": "P2.3",
+     "nome": "Aceite"
+    },
+    {
+     "id": "P2.4",
+     "nome": "Devolução"
+    },
+    {
+     "id": "P2.5",
+     "nome": "Protesto especial"
+    },
+    {
+     "id": "P2.6",
+     "nome": "Falimentar"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "P3",
+   "disc": "prot",
+   "nome": "Princípios do procedimento, qualificação, atribuições e competências; solução negocial prévia (Lei 14.711/2023 e Prov. 168/2024)",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 47,
+   "pf": 66,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "P3.1",
+     "nome": "Princípios do procedimento"
+    },
+    {
+     "id": "P3.2",
+     "nome": "Qualificação"
+    },
+    {
+     "id": "P3.3",
+     "nome": "Atribuições"
+    },
+    {
+     "id": "P3.4",
+     "nome": "Competências"
+    },
+    {
+     "id": "P3.5",
+     "nome": "Solução negocial prévia"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "P4",
+   "disc": "prot",
+   "nome": "Ordem de serviço, distribuição, apresentação, protocolização, prazo, intimação, desistência, sustação, pagamento e lavratura do protesto",
+   "h": 1.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 67,
+   "pf": 89,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "P4.1",
+     "nome": "Ordem de serviço"
+    },
+    {
+     "id": "P4.2",
+     "nome": "Distribuição"
+    },
+    {
+     "id": "P4.3",
+     "nome": "Apresentação"
+    },
+    {
+     "id": "P4.4",
+     "nome": "Protocolização"
+    },
+    {
+     "id": "P4.5",
+     "nome": "Prazo"
+    },
+    {
+     "id": "P4.6",
+     "nome": "Intimação"
+    },
+    {
+     "id": "P4.7",
+     "nome": "Desistência"
+    },
+    {
+     "id": "P4.8",
+     "nome": "Sustação"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "P5",
+   "disc": "prot",
+   "nome": "Averbações, cancelamento do registro do protesto, certidões e informações",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 90,
+   "pf": 104,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "P5.1",
+     "nome": "Averbações"
+    },
+    {
+     "id": "P5.2",
+     "nome": "Cancelamento do registro do protesto"
+    },
+    {
+     "id": "P5.3",
+     "nome": "Certidões"
+    },
+    {
+     "id": "P5.4",
+     "nome": "Informações"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "P6",
+   "disc": "prot",
+   "nome": "Escrituração, livros e arquivos, emolumentos, responsabilidade do tabelião e suspensão dos efeitos",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 105,
+   "pf": 120,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "P6.1",
+     "nome": "Escrituração"
+    },
+    {
+     "id": "P6.2",
+     "nome": "Livros"
+    },
+    {
+     "id": "P6.3",
+     "nome": "Arquivos"
+    },
+    {
+     "id": "P6.4",
+     "nome": "Emolumentos"
+    },
+    {
+     "id": "P6.5",
+     "nome": "Responsabilidade do tabelião"
+    },
+    {
+     "id": "P6.6",
+     "nome": "Suspensão dos efeitos"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "P7",
+   "disc": "prot",
+   "nome": "Disposições gerais, protesto de CDA e prevenção à lavagem de dinheiro no tabelionato de protesto",
+   "h": 2.0,
+   "prio": 2,
+   "ebook": true,
+   "pi": 121,
+   "pf": 149,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "P7.1",
+     "nome": "Disposições gerais"
+    },
+    {
+     "id": "P7.2",
+     "nome": "Protesto de CDA"
+    },
+    {
+     "id": "P7.3",
+     "nome": "Prevenção à lavagem de dinheiro no tabelionato de protesto"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V1",
+   "disc": "civil",
+   "nome": "Lei de Introdução às Normas do Direito Brasileiro",
+   "h": 3.0,
+   "prio": 3,
+   "ebook": true,
+   "pi": 8,
+   "pf": 50,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V1.1",
+     "nome": "Lei de Introdução às Normas do Direito Brasileiro"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V2",
+   "disc": "civil",
+   "nome": "Pessoas naturais: personalidade, capacidade, direitos da personalidade e ausência",
+   "h": 4.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 52,
+   "pf": 122,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V2.1",
+     "nome": "Pessoas naturais: personalidade"
+    },
+    {
+     "id": "V2.2",
+     "nome": "Capacidade"
+    },
+    {
+     "id": "V2.3",
+     "nome": "Direitos da personalidade"
+    },
+    {
+     "id": "V2.4",
+     "nome": "Ausência"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V3",
+   "disc": "civil",
+   "nome": "Pessoas jurídicas, desconsideração da personalidade e domicílio",
+   "h": 5.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 123,
+   "pf": 201,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V3.1",
+     "nome": "Pessoas jurídicas"
+    },
+    {
+     "id": "V3.2",
+     "nome": "Desconsideração da personalidade"
+    },
+    {
+     "id": "V3.3",
+     "nome": "Domicílio"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V4",
+   "disc": "civil",
+   "nome": "Dos bens",
+   "h": 1.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 202,
+   "pf": 223,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V4.1",
+     "nome": "Dos bens"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V5",
+   "disc": "civil",
+   "nome": "Fatos jurídicos e negócio jurídico: forma, defeitos, invalidade e representação",
+   "h": 3.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 224,
+   "pf": 276,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V5.1",
+     "nome": "Fatos jurídicos"
+    },
+    {
+     "id": "V5.2",
+     "nome": "Negócio jurídico: forma"
+    },
+    {
+     "id": "V5.3",
+     "nome": "Defeitos"
+    },
+    {
+     "id": "V5.4",
+     "nome": "Invalidade"
+    },
+    {
+     "id": "V5.5",
+     "nome": "Representação"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V6",
+   "disc": "civil",
+   "nome": "Atos lícitos e ilícitos; prescrição e decadência; forma e prova",
+   "h": 2.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 277,
+   "pf": 314,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V6.1",
+     "nome": "Atos lícitos"
+    },
+    {
+     "id": "V6.2",
+     "nome": "Ilícitos"
+    },
+    {
+     "id": "V6.3",
+     "nome": "Prescrição"
+    },
+    {
+     "id": "V6.4",
+     "nome": "Decadência"
+    },
+    {
+     "id": "V6.5",
+     "nome": "Forma"
+    },
+    {
+     "id": "V6.6",
+     "nome": "Prova"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V7",
+   "disc": "civil",
+   "nome": "Direito das obrigações",
+   "h": 10.5,
+   "prio": 4,
+   "ebook": true,
+   "pi": 315,
+   "pf": 473,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V7.1",
+     "nome": "Direito das obrigações"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V8",
+   "disc": "civil",
+   "nome": "Contratos em geral: princípios, formação, efeitos, extinção, vícios redibitórios e evicção",
+   "h": 2.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 474,
+   "pf": 511,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V8.1",
+     "nome": "Contratos em geral: princípios"
+    },
+    {
+     "id": "V8.2",
+     "nome": "Formação"
+    },
+    {
+     "id": "V8.3",
+     "nome": "Efeitos"
+    },
+    {
+     "id": "V8.4",
+     "nome": "Extinção"
+    },
+    {
+     "id": "V8.5",
+     "nome": "Vícios redibitórios"
+    },
+    {
+     "id": "V8.6",
+     "nome": "Evicção"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V9",
+   "disc": "civil",
+   "nome": "Espécies de contratos: compra e venda, permuta, estimatório, doação, locação, comodato, mútuo, prestação de serviço, empreitada, depósito, mandato, comissão, agência, corretagem e transporte",
+   "h": 3.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 512,
+   "pf": 566,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V9.1",
+     "nome": "Espécies de contratos: compra"
+    },
+    {
+     "id": "V9.2",
+     "nome": "Venda"
+    },
+    {
+     "id": "V9.3",
+     "nome": "Permuta"
+    },
+    {
+     "id": "V9.4",
+     "nome": "Estimatório"
+    },
+    {
+     "id": "V9.5",
+     "nome": "Doação"
+    },
+    {
+     "id": "V9.6",
+     "nome": "Locação"
+    },
+    {
+     "id": "V9.7",
+     "nome": "Comodato"
+    },
+    {
+     "id": "V9.8",
+     "nome": "Mútuo"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V10",
+   "disc": "civil",
+   "nome": "Constituição de renda, jogo e aposta, fiança, transação, compromisso e atos unilaterais",
+   "h": 0.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 569,
+   "pf": 577,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V10.1",
+     "nome": "Constituição de renda"
+    },
+    {
+     "id": "V10.2",
+     "nome": "Jogo"
+    },
+    {
+     "id": "V10.3",
+     "nome": "Aposta"
+    },
+    {
+     "id": "V10.4",
+     "nome": "Fiança"
+    },
+    {
+     "id": "V10.5",
+     "nome": "Transação"
+    },
+    {
+     "id": "V10.6",
+     "nome": "Compromisso"
+    },
+    {
+     "id": "V10.7",
+     "nome": "Atos unilaterais"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V11",
+   "disc": "civil",
+   "nome": "Responsabilidade civil, inclusive a de notários e registradores",
+   "h": 2.0,
+   "prio": 3,
+   "ebook": true,
+   "pi": 578,
+   "pf": 604,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V11.1",
+     "nome": "Responsabilidade civil"
+    },
+    {
+     "id": "V11.2",
+     "nome": "Inclusive a de notários"
+    },
+    {
+     "id": "V11.3",
+     "nome": "Registradores"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V12",
+   "disc": "civil",
+   "nome": "Direitos reais: posse, propriedade em geral, propriedade resolúvel e propriedade fiduciária",
+   "h": 3.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 605,
+   "pf": 646,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V12.1",
+     "nome": "Direitos reais: posse"
+    },
+    {
+     "id": "V12.2",
+     "nome": "Propriedade em geral"
+    },
+    {
+     "id": "V12.3",
+     "nome": "Propriedade resolúvel"
+    },
+    {
+     "id": "V12.4",
+     "nome": "Propriedade fiduciária"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V13",
+   "disc": "civil",
+   "nome": "Condomínio geral, edilício, de lotes e multipropriedade; fundos de investimento, cohousing e direitos de vizinhança",
+   "h": 3.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 647,
+   "pf": 692,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V13.1",
+     "nome": "Condomínio geral"
+    },
+    {
+     "id": "V13.2",
+     "nome": "Edilício"
+    },
+    {
+     "id": "V13.3",
+     "nome": "De lotes"
+    },
+    {
+     "id": "V13.4",
+     "nome": "Multipropriedade"
+    },
+    {
+     "id": "V13.5",
+     "nome": "Fundos de investimento"
+    },
+    {
+     "id": "V13.6",
+     "nome": "Cohousing"
+    },
+    {
+     "id": "V13.7",
+     "nome": "Direitos de vizinhança"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V14",
+   "disc": "civil",
+   "nome": "Direitos reais sobre coisa alheia: gozo, aquisição e garantia; direito real de laje",
+   "h": 3.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 693,
+   "pf": 748,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V14.1",
+     "nome": "Direitos reais sobre coisa alheia: gozo"
+    },
+    {
+     "id": "V14.2",
+     "nome": "Aquisição"
+    },
+    {
+     "id": "V14.3",
+     "nome": "Garantia"
+    },
+    {
+     "id": "V14.4",
+     "nome": "Direito real de laje"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V15",
+   "disc": "civil",
+   "nome": "Família — direito pessoal: casamento, invalidade, dissolução, filiação e poder familiar",
+   "h": 4.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 749,
+   "pf": 814,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V15.1",
+     "nome": "Direito pessoal: casamento"
+    },
+    {
+     "id": "V15.2",
+     "nome": "Invalidade"
+    },
+    {
+     "id": "V15.3",
+     "nome": "Dissolução"
+    },
+    {
+     "id": "V15.4",
+     "nome": "Filiação"
+    },
+    {
+     "id": "V15.5",
+     "nome": "Poder familiar"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V16",
+   "disc": "civil",
+   "nome": "Família — direito patrimonial: regimes de bens, pacto antenupcial, alimentos; união estável; tutela, curatela e tomada de decisão apoiada",
+   "h": 3.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 815,
+   "pf": 867,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V16.1",
+     "nome": "Direito patrimonial: regimes de bens"
+    },
+    {
+     "id": "V16.2",
+     "nome": "Pacto antenupcial"
+    },
+    {
+     "id": "V16.3",
+     "nome": "Alimentos"
+    },
+    {
+     "id": "V16.4",
+     "nome": "União estável"
+    },
+    {
+     "id": "V16.5",
+     "nome": "Tutela"
+    },
+    {
+     "id": "V16.6",
+     "nome": "Curatela"
+    },
+    {
+     "id": "V16.7",
+     "nome": "Tomada de decisão apoiada"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V17",
+   "disc": "civil",
+   "nome": "Sucessão em geral e sucessão legítima",
+   "h": 2.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 868,
+   "pf": 902,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V17.1",
+     "nome": "Sucessão em geral"
+    },
+    {
+     "id": "V17.2",
+     "nome": "Sucessão legítima"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "V18",
+   "disc": "civil",
+   "nome": "Sucessão testamentária; inventário e partilha (Res. CNJ 571/2024)",
+   "h": 3.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 903,
+   "pf": 955,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "V18.1",
+     "nome": "Sucessão testamentária"
+    },
+    {
+     "id": "V18.2",
+     "nome": "Inventário"
+    },
+    {
+     "id": "V18.3",
+     "nome": "Partilha"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K1",
+   "disc": "consti",
+   "nome": "Constituição, poder constituinte, emendas, normas constitucionais e sua aplicabilidade",
+   "h": 2.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 11,
+   "pf": 48,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K1.1",
+     "nome": "Constituição"
+    },
+    {
+     "id": "K1.2",
+     "nome": "Poder constituinte"
+    },
+    {
+     "id": "K1.3",
+     "nome": "Emendas"
+    },
+    {
+     "id": "K1.4",
+     "nome": "Normas constitucionais"
+    },
+    {
+     "id": "K1.5",
+     "nome": "Sua aplicabilidade"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K2",
+   "disc": "consti",
+   "nome": "Interpretação constitucional e controle de constitucionalidade: conceito, espécies, sistemas e efeitos",
+   "h": 2.0,
+   "prio": 3,
+   "ebook": true,
+   "pi": 49,
+   "pf": 76,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K2.1",
+     "nome": "Interpretação constitucional"
+    },
+    {
+     "id": "K2.2",
+     "nome": "Controle de constitucionalidade: conceito"
+    },
+    {
+     "id": "K2.3",
+     "nome": "Espécies"
+    },
+    {
+     "id": "K2.4",
+     "nome": "Sistemas"
+    },
+    {
+     "id": "K2.5",
+     "nome": "Efeitos"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K3",
+   "disc": "consti",
+   "nome": "ADI, ADC, ADPF, ADO, representação interventiva, mandado de injunção e controle estadual",
+   "h": 4.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 77,
+   "pf": 146,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K3.1",
+     "nome": "ADPF"
+    },
+    {
+     "id": "K3.2",
+     "nome": "Representação interventiva"
+    },
+    {
+     "id": "K3.3",
+     "nome": "Mandado de injunção"
+    },
+    {
+     "id": "K3.4",
+     "nome": "Controle estadual"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K4",
+   "disc": "consti",
+   "nome": "Estrutura da Constituição, princípios fundamentais e direitos e garantias fundamentais",
+   "h": 2.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 147,
+   "pf": 181,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K4.1",
+     "nome": "Estrutura da Constituição"
+    },
+    {
+     "id": "K4.2",
+     "nome": "Princípios fundamentais"
+    },
+    {
+     "id": "K4.3",
+     "nome": "Direitos"
+    },
+    {
+     "id": "K4.4",
+     "nome": "Garantias fundamentais"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K5",
+   "disc": "consti",
+   "nome": "Direitos sociais e coletivos; ações constitucionais",
+   "h": 2.0,
+   "prio": 3,
+   "ebook": true,
+   "pi": 182,
+   "pf": 212,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K5.1",
+     "nome": "Direitos sociais"
+    },
+    {
+     "id": "K5.2",
+     "nome": "Coletivos"
+    },
+    {
+     "id": "K5.3",
+     "nome": "Ações constitucionais"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K6",
+   "disc": "consti",
+   "nome": "Nacionalidade, direitos políticos, organização do Estado, federação, intervenção e repartição de competências",
+   "h": 5.0,
+   "prio": 3,
+   "ebook": true,
+   "pi": 213,
+   "pf": 285,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K6.1",
+     "nome": "Nacionalidade"
+    },
+    {
+     "id": "K6.2",
+     "nome": "Direitos políticos"
+    },
+    {
+     "id": "K6.3",
+     "nome": "Organização do Estado"
+    },
+    {
+     "id": "K6.4",
+     "nome": "Federação"
+    },
+    {
+     "id": "K6.5",
+     "nome": "Intervenção"
+    },
+    {
+     "id": "K6.6",
+     "nome": "Repartição de competências"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K7",
+   "disc": "consti",
+   "nome": "Poder Legislativo e processo legislativo",
+   "h": 1.0,
+   "prio": 3,
+   "ebook": true,
+   "pi": 286,
+   "pf": 302,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K7.1",
+     "nome": "Poder Legislativo"
+    },
+    {
+     "id": "K7.2",
+     "nome": "Processo legislativo"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K8",
+   "disc": "consti",
+   "nome": "Poder Executivo",
+   "h": 1.5,
+   "prio": 4,
+   "ebook": true,
+   "pi": 303,
+   "pf": 323,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K8.1",
+     "nome": "Poder Executivo"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K9",
+   "disc": "consti",
+   "nome": "Poder Judiciário: garantias, estrutura, EC 45/2004, CNJ e atividade correcional; funções essenciais à Justiça",
+   "h": 2.5,
+   "prio": 1,
+   "ebook": true,
+   "pi": 324,
+   "pf": 361,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K9.1",
+     "nome": "Poder Judiciário: garantias"
+    },
+    {
+     "id": "K9.2",
+     "nome": "Estrutura"
+    },
+    {
+     "id": "K9.3",
+     "nome": "EC 45/2004"
+    },
+    {
+     "id": "K9.4",
+     "nome": "Atividade correcional"
+    },
+    {
+     "id": "K9.5",
+     "nome": "Funções essenciais à Justiça"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K10",
+   "disc": "consti",
+   "nome": "Defesa do Estado e das instituições democráticas; Forças Armadas",
+   "h": 2.5,
+   "prio": 4,
+   "ebook": true,
+   "pi": 362,
+   "pf": 397,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K10.1",
+     "nome": "Defesa do Estado"
+    },
+    {
+     "id": "K10.2",
+     "nome": "Das instituições democráticas"
+    },
+    {
+     "id": "K10.3",
+     "nome": "Forças Armadas"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K11",
+   "disc": "consti",
+   "nome": "Ordem econômica, política urbana, Estatuto da Cidade, função social da propriedade e desapropriação; regime constitucional dos serviços notariais e de registro",
+   "h": 4.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 398,
+   "pf": 461,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K11.1",
+     "nome": "Ordem econômica"
+    },
+    {
+     "id": "K11.2",
+     "nome": "Política urbana"
+    },
+    {
+     "id": "K11.3",
+     "nome": "Estatuto da Cidade"
+    },
+    {
+     "id": "K11.4",
+     "nome": "Função social da propriedade"
+    },
+    {
+     "id": "K11.5",
+     "nome": "Desapropriação"
+    },
+    {
+     "id": "K11.6",
+     "nome": "Regime constitucional dos serviços notariais"
+    },
+    {
+     "id": "K11.7",
+     "nome": "De registro"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "K12",
+   "disc": "consti",
+   "nome": "Sistema tributário nacional na Constituição e EC 132/2023: reflexos no ITCMD e no ITBI",
+   "h": 1.0,
+   "prio": 3,
+   "ebook": true,
+   "pi": 462,
+   "pf": 477,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "K12.1",
+     "nome": "Sistema tributário nacional na Constituição e EC 132/2023: reflexos no ITCMD"
+    },
+    {
+     "id": "K12.2",
+     "nome": "No ITBI"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "A1",
+   "disc": "adm",
+   "nome": "Introdução ao Direito Administrativo, escolas, noções de Estado, regime jurídico-administrativo e constitucionalização",
+   "h": 2.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 14,
+   "pf": 49,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "A1.1",
+     "nome": "Introdução ao Direito Administrativo"
+    },
+    {
+     "id": "A1.2",
+     "nome": "Escolas"
+    },
+    {
+     "id": "A1.3",
+     "nome": "Noções de Estado"
+    },
+    {
+     "id": "A1.4",
+     "nome": "Regime jurídico-administrativo"
+    },
+    {
+     "id": "A1.5",
+     "nome": "Constitucionalização"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "A2",
+   "disc": "adm",
+   "nome": "Administração direta e indireta, órgãos e entes públicos; princípios administrativos",
+   "h": 2.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 50,
+   "pf": 87,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "A2.1",
+     "nome": "Administração direta"
+    },
+    {
+     "id": "A2.2",
+     "nome": "Indireta"
+    },
+    {
+     "id": "A2.3",
+     "nome": "Órgãos"
+    },
+    {
+     "id": "A2.4",
+     "nome": "Entes públicos"
+    },
+    {
+     "id": "A2.5",
+     "nome": "Princípios administrativos"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "A3",
+   "disc": "adm",
+   "nome": "Poderes da Administração e poder de polícia: limites, delegação e sanções administrativas",
+   "h": 1.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 88,
+   "pf": 99,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "A3.1",
+     "nome": "Poderes da Administração"
+    },
+    {
+     "id": "A3.2",
+     "nome": "Poder de polícia: limites"
+    },
+    {
+     "id": "A3.3",
+     "nome": "Delegação"
+    },
+    {
+     "id": "A3.4",
+     "nome": "Sanções administrativas"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "A4",
+   "disc": "adm",
+   "nome": "Atos administrativos: elementos, requisitos, espécies, revogação, invalidação, conversão e convalidação",
+   "h": 3.0,
+   "prio": 2,
+   "ebook": true,
+   "pi": 100,
+   "pf": 145,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "A4.1",
+     "nome": "Atos administrativos: elementos"
+    },
+    {
+     "id": "A4.2",
+     "nome": "Requisitos"
+    },
+    {
+     "id": "A4.3",
+     "nome": "Espécies"
+    },
+    {
+     "id": "A4.4",
+     "nome": "Revogação"
+    },
+    {
+     "id": "A4.5",
+     "nome": "Invalidação"
+    },
+    {
+     "id": "A4.6",
+     "nome": "Conversão"
+    },
+    {
+     "id": "A4.7",
+     "nome": "Convalidação"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "A5",
+   "disc": "adm",
+   "nome": "Contratos administrativos e licitações",
+   "h": 4.0,
+   "prio": 4,
+   "ebook": true,
+   "pi": 146,
+   "pf": 204,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "A5.1",
+     "nome": "Contratos administrativos"
+    },
+    {
+     "id": "A5.2",
+     "nome": "Licitações"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "A6",
+   "disc": "adm",
+   "nome": "Bens públicos: natureza, espécies, afetação, alienação e uso privativo pelo particular",
+   "h": 3.0,
+   "prio": 3,
+   "ebook": true,
+   "pi": 205,
+   "pf": 251,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "A6.1",
+     "nome": "Bens públicos: natureza"
+    },
+    {
+     "id": "A6.2",
+     "nome": "Espécies"
+    },
+    {
+     "id": "A6.3",
+     "nome": "Afetação"
+    },
+    {
+     "id": "A6.4",
+     "nome": "Alienação"
+    },
+    {
+     "id": "A6.5",
+     "nome": "Uso privativo pelo particular"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "A7",
+   "disc": "adm",
+   "nome": "Controle da Administração; improbidade administrativa (Lei 8.429/92); Lei Anticorrupção (Lei 12.846/2013)",
+   "h": 5.0,
+   "prio": 3,
+   "ebook": true,
+   "pi": 252,
+   "pf": 327,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "A7.1",
+     "nome": "Controle da Administração"
+    },
+    {
+     "id": "A7.2",
+     "nome": "Improbidade administrativa"
+    },
+    {
+     "id": "A7.3",
+     "nome": "Lei Anticorrupção"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "A8",
+   "disc": "adm",
+   "nome": "Intervenção do Estado na propriedade, desapropriação (DL 3.365/41), servidão, requisição, ocupação e tombamento",
+   "h": 3.5,
+   "prio": 2,
+   "ebook": true,
+   "pi": 328,
+   "pf": 380,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "A8.1",
+     "nome": "Intervenção do Estado na propriedade"
+    },
+    {
+     "id": "A8.2",
+     "nome": "Desapropriação"
+    },
+    {
+     "id": "A8.3",
+     "nome": "Servidão"
+    },
+    {
+     "id": "A8.4",
+     "nome": "Requisição"
+    },
+    {
+     "id": "A8.5",
+     "nome": "Ocupação"
+    },
+    {
+     "id": "A8.6",
+     "nome": "Tombamento"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "A9",
+   "disc": "adm",
+   "nome": "Mandado de segurança, ação popular, ação civil pública, habeas data e precatórios",
+   "h": 4.5,
+   "prio": 3,
+   "ebook": true,
+   "pi": 381,
+   "pf": 448,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "A9.1",
+     "nome": "Mandado de segurança"
+    },
+    {
+     "id": "A9.2",
+     "nome": "Ação popular"
+    },
+    {
+     "id": "A9.3",
+     "nome": "Ação civil pública"
+    },
+    {
+     "id": "A9.4",
+     "nome": "Habeas data"
+    },
+    {
+     "id": "A9.5",
+     "nome": "Precatórios"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "A10",
+   "disc": "adm",
+   "nome": "Serviço público e serviço público delegado: a delegação notarial e registral, responsabilidade do Estado e do delegatário",
+   "h": 3.0,
+   "prio": 1,
+   "ebook": true,
+   "pi": 449,
+   "pf": 492,
+   "unidade": "E-book BV",
+   "subtemas": [
+    {
+     "id": "A10.1",
+     "nome": "Serviço público"
+    },
+    {
+     "id": "A10.2",
+     "nome": "Serviço público delegado: a delegação notarial"
+    },
+    {
+     "id": "A10.3",
+     "nome": "Registral"
+    },
+    {
+     "id": "A10.4",
+     "nome": "Responsabilidade do Estado"
+    },
+    {
+     "id": "A10.5",
+     "nome": "Do delegatário"
+    }
+   ],
+   "origem": "recorte"
+  },
+  {
+   "id": "TR1-01",
+   "disc": "trib",
+   "nome": "Sistema Tributário Nacional, competência e espécies tributárias",
+   "h": 3,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Sistema e obrigação tributária",
+   "subtemas": [
+    {
+     "id": "TR1-01.1",
+     "nome": "Sistema Tributário Nacional"
+    },
+    {
+     "id": "TR1-01.2",
+     "nome": "Competência"
+    },
+    {
+     "id": "TR1-01.3",
+     "nome": "Espécies tributárias"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "TR1-02",
+   "disc": "trib",
+   "nome": "Limitações ao poder de tributar: princípios e imunidades",
+   "h": 3,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Sistema e obrigação tributária",
+   "subtemas": [
+    {
+     "id": "TR1-02.1",
+     "nome": "Princípios"
+    },
+    {
+     "id": "TR1-02.2",
+     "nome": "Imunidades"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "TR1-03",
+   "disc": "trib",
+   "nome": "Obrigação tributária, fato gerador, sujeição passiva e responsabilidade de terceiros",
+   "h": 3.5,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Sistema e obrigação tributária",
+   "subtemas": [
+    {
+     "id": "TR1-03.1",
+     "nome": "Obrigação tributária"
+    },
+    {
+     "id": "TR1-03.2",
+     "nome": "Fato gerador"
+    },
+    {
+     "id": "TR1-03.3",
+     "nome": "Sujeição passiva"
+    },
+    {
+     "id": "TR1-03.4",
+     "nome": "Responsabilidade de terceiros"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "TR1-04",
+   "disc": "trib",
+   "nome": "Crédito tributário: lançamento, suspensão, extinção e exclusão; garantias e privilégios",
+   "h": 4,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Sistema e obrigação tributária",
+   "subtemas": [
+    {
+     "id": "TR1-04.1",
+     "nome": "Crédito tributário: lançamento"
+    },
+    {
+     "id": "TR1-04.2",
+     "nome": "Suspensão"
+    },
+    {
+     "id": "TR1-04.3",
+     "nome": "Extinção"
+    },
+    {
+     "id": "TR1-04.4",
+     "nome": "Exclusão"
+    },
+    {
+     "id": "TR1-04.5",
+     "nome": "Garantias"
+    },
+    {
+     "id": "TR1-04.6",
+     "nome": "Privilégios"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "TR2-01",
+   "disc": "trib",
+   "nome": "ITBI e ITCMD",
+   "h": 3.5,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Tributos da atividade notarial e registral",
+   "subtemas": [
+    {
+     "id": "TR2-01.1",
+     "nome": "ITBI e ITCMD"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "TR2-02",
+   "disc": "trib",
+   "nome": "IPTU e ITR; certidões fiscais nos atos notariais e registrais",
+   "h": 2,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Tributos da atividade notarial e registral",
+   "subtemas": [
+    {
+     "id": "TR2-02.1",
+     "nome": "IPTU e ITR"
+    },
+    {
+     "id": "TR2-02.2",
+     "nome": "Certidões fiscais nos atos notariais"
+    },
+    {
+     "id": "TR2-02.3",
+     "nome": "Registrais"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "TR2-03",
+   "disc": "trib",
+   "nome": "Emolumentos como taxa; ISS sobre serviços notariais e de registro",
+   "h": 2.5,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Tributos da atividade notarial e registral",
+   "subtemas": [
+    {
+     "id": "TR2-03.1",
+     "nome": "Emolumentos como taxa"
+    },
+    {
+     "id": "TR2-03.2",
+     "nome": "ISS sobre serviços notariais"
+    },
+    {
+     "id": "TR2-03.3",
+     "nome": "De registro"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "TR2-04",
+   "disc": "trib",
+   "nome": "Imposto de renda do delegatário, livro-caixa e obrigações acessórias",
+   "h": 2.5,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Tributos da atividade notarial e registral",
+   "subtemas": [
+    {
+     "id": "TR2-04.1",
+     "nome": "Imposto de renda do delegatário"
+    },
+    {
+     "id": "TR2-04.2",
+     "nome": "Livro-caixa"
+    },
+    {
+     "id": "TR2-04.3",
+     "nome": "Obrigações acessórias"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "TR2-05",
+   "disc": "trib",
+   "nome": "Reforma tributária: IBS, CBS e Imposto Seletivo",
+   "h": 3,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Tributos da atividade notarial e registral",
+   "subtemas": [
+    {
+     "id": "TR2-05.1",
+     "nome": "CBS e Imposto Seletivo"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "PC1-01",
+   "disc": "pcivil",
+   "nome": "Normas fundamentais, jurisdição, ação e competência",
+   "h": 3,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Parte geral do CPC",
+   "subtemas": [
+    {
+     "id": "PC1-01.1",
+     "nome": "Normas fundamentais"
+    },
+    {
+     "id": "PC1-01.2",
+     "nome": "Jurisdição"
+    },
+    {
+     "id": "PC1-01.3",
+     "nome": "Ação"
+    },
+    {
+     "id": "PC1-01.4",
+     "nome": "Competência"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "PC1-02",
+   "disc": "pcivil",
+   "nome": "Sujeitos do processo, litisconsórcio e intervenção de terceiros",
+   "h": 2.5,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Parte geral do CPC",
+   "subtemas": [
+    {
+     "id": "PC1-02.1",
+     "nome": "Sujeitos do processo"
+    },
+    {
+     "id": "PC1-02.2",
+     "nome": "Litisconsórcio"
+    },
+    {
+     "id": "PC1-02.3",
+     "nome": "Intervenção de terceiros"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "PC1-03",
+   "disc": "pcivil",
+   "nome": "Atos processuais, prazos, comunicação e nulidades",
+   "h": 2.5,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Parte geral do CPC",
+   "subtemas": [
+    {
+     "id": "PC1-03.1",
+     "nome": "Atos processuais"
+    },
+    {
+     "id": "PC1-03.2",
+     "nome": "Prazos"
+    },
+    {
+     "id": "PC1-03.3",
+     "nome": "Comunicação"
+    },
+    {
+     "id": "PC1-03.4",
+     "nome": "Nulidades"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "PC1-04",
+   "disc": "pcivil",
+   "nome": "Tutela provisória",
+   "h": 2,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Parte geral do CPC",
+   "subtemas": [
+    {
+     "id": "PC1-04.1",
+     "nome": "Tutela provisória"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "PC2-01",
+   "disc": "pcivil",
+   "nome": "Procedimento comum, provas, sentença e coisa julgada",
+   "h": 4,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Conhecimento, execução e procedimentos especiais",
+   "subtemas": [
+    {
+     "id": "PC2-01.1",
+     "nome": "Procedimento comum"
+    },
+    {
+     "id": "PC2-01.2",
+     "nome": "Provas"
+    },
+    {
+     "id": "PC2-01.3",
+     "nome": "Sentença"
+    },
+    {
+     "id": "PC2-01.4",
+     "nome": "Coisa julgada"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "PC2-02",
+   "disc": "pcivil",
+   "nome": "Recursos e precedentes",
+   "h": 3,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Conhecimento, execução e procedimentos especiais",
+   "subtemas": [
+    {
+     "id": "PC2-02.1",
+     "nome": "Recursos"
+    },
+    {
+     "id": "PC2-02.2",
+     "nome": "Precedentes"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "PC2-03",
+   "disc": "pcivil",
+   "nome": "Cumprimento de sentença e execução; penhora, averbações e fraude à execução",
+   "h": 3.5,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Conhecimento, execução e procedimentos especiais",
+   "subtemas": [
+    {
+     "id": "PC2-03.1",
+     "nome": "Cumprimento de sentença"
+    },
+    {
+     "id": "PC2-03.2",
+     "nome": "Execução"
+    },
+    {
+     "id": "PC2-03.3",
+     "nome": "Penhora"
+    },
+    {
+     "id": "PC2-03.4",
+     "nome": "Averbações"
+    },
+    {
+     "id": "PC2-03.5",
+     "nome": "Fraude à execução"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "PC2-04",
+   "disc": "pcivil",
+   "nome": "Procedimentos especiais e jurisdição voluntária: inventário, divórcio, usucapião e interdição",
+   "h": 3.5,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Conhecimento, execução e procedimentos especiais",
+   "subtemas": [
+    {
+     "id": "PC2-04.1",
+     "nome": "Procedimentos especiais"
+    },
+    {
+     "id": "PC2-04.2",
+     "nome": "Jurisdição voluntária: inventário"
+    },
+    {
+     "id": "PC2-04.3",
+     "nome": "Divórcio"
+    },
+    {
+     "id": "PC2-04.4",
+     "nome": "Usucapião"
+    },
+    {
+     "id": "PC2-04.5",
+     "nome": "Interdição"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "EM1-01",
+   "disc": "emp",
+   "nome": "Teoria da empresa, empresário, estabelecimento e nome empresarial",
+   "h": 3,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Empresa e sociedades",
+   "subtemas": [
+    {
+     "id": "EM1-01.1",
+     "nome": "Teoria da empresa"
+    },
+    {
+     "id": "EM1-01.2",
+     "nome": "Empresário"
+    },
+    {
+     "id": "EM1-01.3",
+     "nome": "Estabelecimento"
+    },
+    {
+     "id": "EM1-01.4",
+     "nome": "Nome empresarial"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "EM1-02",
+   "disc": "emp",
+   "nome": "Registro público de empresas e obrigações do empresário",
+   "h": 2,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Empresa e sociedades",
+   "subtemas": [
+    {
+     "id": "EM1-02.1",
+     "nome": "Registro público de empresas"
+    },
+    {
+     "id": "EM1-02.2",
+     "nome": "Obrigações do empresário"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "EM1-03",
+   "disc": "emp",
+   "nome": "Sociedades: teoria geral, sociedade simples e limitada",
+   "h": 4,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Empresa e sociedades",
+   "subtemas": [
+    {
+     "id": "EM1-03.1",
+     "nome": "Teoria geral"
+    },
+    {
+     "id": "EM1-03.2",
+     "nome": "Sociedade simples"
+    },
+    {
+     "id": "EM1-03.3",
+     "nome": "Limitada"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "EM1-04",
+   "disc": "emp",
+   "nome": "Sociedade anônima, demais tipos e operações societárias",
+   "h": 3.5,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Empresa e sociedades",
+   "subtemas": [
+    {
+     "id": "EM1-04.1",
+     "nome": "Sociedade anônima"
+    },
+    {
+     "id": "EM1-04.2",
+     "nome": "Demais tipos"
+    },
+    {
+     "id": "EM1-04.3",
+     "nome": "Operações societárias"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "EM2-01",
+   "disc": "emp",
+   "nome": "Títulos de crédito: teoria geral, endosso, aval e protesto",
+   "h": 4,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Títulos de crédito, contratos e crise da empresa",
+   "subtemas": [
+    {
+     "id": "EM2-01.1",
+     "nome": "Teoria geral"
+    },
+    {
+     "id": "EM2-01.2",
+     "nome": "Endosso"
+    },
+    {
+     "id": "EM2-01.3",
+     "nome": "Aval"
+    },
+    {
+     "id": "EM2-01.4",
+     "nome": "Protesto"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "EM2-02",
+   "disc": "emp",
+   "nome": "Letra de câmbio, nota promissória, cheque e duplicata; títulos eletrônicos",
+   "h": 4,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Títulos de crédito, contratos e crise da empresa",
+   "subtemas": [
+    {
+     "id": "EM2-02.1",
+     "nome": "Letra de câmbio"
+    },
+    {
+     "id": "EM2-02.2",
+     "nome": "Nota promissória"
+    },
+    {
+     "id": "EM2-02.3",
+     "nome": "Cheque"
+    },
+    {
+     "id": "EM2-02.4",
+     "nome": "Duplicata"
+    },
+    {
+     "id": "EM2-02.5",
+     "nome": "Títulos eletrônicos"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "EM2-03",
+   "disc": "emp",
+   "nome": "Cédulas de crédito e títulos do agronegócio",
+   "h": 2.5,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Títulos de crédito, contratos e crise da empresa",
+   "subtemas": [
+    {
+     "id": "EM2-03.1",
+     "nome": "Cédulas de crédito"
+    },
+    {
+     "id": "EM2-03.2",
+     "nome": "Títulos do agronegócio"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "EM2-04",
+   "disc": "emp",
+   "nome": "Contratos empresariais: alienação fiduciária, arrendamento mercantil, franquia e fomento mercantil",
+   "h": 2.5,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Títulos de crédito, contratos e crise da empresa",
+   "subtemas": [
+    {
+     "id": "EM2-04.1",
+     "nome": "Contratos empresariais: alienação fiduciária"
+    },
+    {
+     "id": "EM2-04.2",
+     "nome": "Arrendamento mercantil"
+    },
+    {
+     "id": "EM2-04.3",
+     "nome": "Franquia"
+    },
+    {
+     "id": "EM2-04.4",
+     "nome": "Fomento mercantil"
+    }
+   ],
+   "origem": "planner-geral"
+  },
+  {
+   "id": "EM2-05",
+   "disc": "emp",
+   "nome": "Recuperação judicial, extrajudicial e falência (Lei 11.101/2005)",
+   "h": 4,
+   "prio": 2,
+   "ebook": false,
+   "pi": null,
+   "pf": null,
+   "unidade": "Títulos de crédito, contratos e crise da empresa",
+   "subtemas": [
+    {
+     "id": "EM2-05.1",
+     "nome": "Recuperação judicial"
+    },
+    {
+     "id": "EM2-05.2",
+     "nome": "Extrajudicial"
+    },
+    {
+     "id": "EM2-05.3",
+     "nome": "Falência"
+    }
+   ],
+   "origem": "planner-geral"
+  }
+ ]
+}
