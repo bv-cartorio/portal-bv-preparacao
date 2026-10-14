@@ -1,0 +1,5 @@
+dist/
+node_modules/
+testes/*.png
+__pycache__/
+*.zip
