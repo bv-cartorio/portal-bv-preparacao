@@ -1,0 +1,37 @@
+name: Importar banco de questões (ENAC 4 → taxonomia nova)
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'Endereço do banco no esquema do ENAC 4 (banco-enac4.json)'
+        required: true
+        default: 'https://portalbv-enac4.netlify.app/banco-enac4.json'
+      versao:
+        description: 'Versão a gravar no índice (AAAA.MM.DD-rótulo)'
+        required: true
+        default: '2026.10.14-v0.1'
+
+permissions:
+  contents: write
+
+jobs:
+  importar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Baixar o banco de origem
+        run: curl -fsSL "${{ github.event.inputs.url }}" -o /tmp/banco-enac4.json && ls -la /tmp/banco-enac4.json
+      - name: Gerar taxonomia, banco por disciplina e dados do motor
+        run: VERSAO="${{ github.event.inputs.versao }}" python3 ferramentas/gerar_dados.py /tmp/banco-enac4.json
+      - name: Validar
+        run: python3 ferramentas/validar_banco.py
+      - name: Gravar no repositório
+        run: |
+          git config user.name "BV Cartórios (ação)"
+          git config user.email "bv@bvcartorio.com"
+          git add dados src/dados_disc.js
+          git commit -m "Banco de questões importado (${{ github.event.inputs.versao }})" || echo "nada a gravar"
+          git push
