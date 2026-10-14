@@ -1,0 +1,7 @@
+{
+ "sync": {
+  "url": "",
+  "intervalo": 300000,
+  "portal": "preparacao"
+ }
+}
