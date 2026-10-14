@@ -1,0 +1,872 @@
+{
+ "tg": {
+  "name": "Teoria Geral Notarial e Registral",
+  "short": "Not/Reg",
+  "rw": 1.25,
+  "book": "Notarial e Registros",
+  "qc": 497,
+  "units": [
+   {
+    "name": "Regime jurídico da atividade",
+    "t": [
+     [
+      "Art. 236 da Constituição e natureza jurídica da delegação",
+      2
+     ],
+     [
+      "Lei 8.935/94: ingresso, atribuições e competências",
+      3
+     ],
+     [
+      "Lei 8.935/94: direitos, deveres, incompatibilidades e impedimentos",
+      2.5
+     ],
+     [
+      "Responsabilidade civil, penal e administrativa; infrações e penalidades",
+      3
+     ],
+     [
+      "Fiscalização pelo Judiciário e pelo CNJ; extinção da delegação e interinidade",
+      2.5
+     ]
+    ]
+   },
+   {
+    "name": "Princípios, Lei 6.015/73 e normas nacionais",
+    "t": [
+     [
+      "Princípios notariais e registrais; fé pública",
+      3
+     ],
+     [
+      "Lei 6.015/73: disposições gerais, escrituração, ordem do serviço e publicidade",
+      3.5
+     ],
+     [
+      "Lei 14.382/2022: SERP e registros eletrônicos",
+      3
+     ],
+     [
+      "Código Nacional de Normas do CNJ (Provimento 149/2023): estrutura e parte geral",
+      4
+     ],
+     [
+      "Emolumentos (Lei 10.169/2000), gratuidades e selo de fiscalização",
+      2.5
+     ],
+     [
+      "LGPD nas serventias, prevenção à lavagem de dinheiro e deveres de comunicação",
+      3
+     ]
+    ]
+   }
+  ]
+ },
+ "rcpn": {
+  "name": "Registro Civil das Pessoas Naturais",
+  "short": "RCPN",
+  "rw": 1.25,
+  "book": "RCPN",
+  "qc": 497,
+  "units": [
+   {
+    "name": "Organização, nascimento e nome",
+    "t": [
+     [
+      "Organização do RCPN, livros, gratuidade e Ofícios da Cidadania",
+      2.5
+     ],
+     [
+      "Registro de nascimento: prazo, legitimados, DNV e registro tardio",
+      4
+     ],
+     [
+      "Nome civil: composição, alteração e retificação",
+      3.5
+     ],
+     [
+      "Filiação: reconhecimento de paternidade, socioafetividade e reprodução assistida",
+      3.5
+     ]
+    ]
+   },
+   {
+    "name": "Casamento e óbito",
+    "t": [
+     [
+      "Habilitação, celebração e registro do casamento; casamento religioso com efeitos civis",
+      4
+     ],
+     [
+      "União estável: registro no Livro E e conversão em casamento",
+      2.5
+     ],
+     [
+      "Registro de óbito, natimorto, morte presumida e ausência",
+      3
+     ]
+    ]
+   },
+   {
+    "name": "Livro E, averbações e retificações",
+    "t": [
+     [
+      "Emancipação, interdição, tomada de decisão apoiada e demais atos do Livro E",
+      2.5
+     ],
+     [
+      "Averbações e anotações; alteração de prenome e gênero",
+      3
+     ],
+     [
+      "Retificação administrativa e judicial; restauração e suprimento",
+      2.5
+     ],
+     [
+      "Traslados de assentos estrangeiros, nacionalidade e opção",
+      2.5
+     ],
+     [
+      "Certidões, CRC e registro eletrônico",
+      2
+     ]
+    ]
+   }
+  ]
+ },
+ "notas": {
+  "name": "Tabelionato de Notas",
+  "short": "Notas",
+  "rw": 1.25,
+  "book": "Tabelionato de Notas",
+  "qc": 497,
+  "units": [
+   {
+    "name": "Função notarial e escrituras",
+    "t": [
+     [
+      "Função notarial, competência territorial e livros",
+      2.5
+     ],
+     [
+      "Escritura pública: requisitos, capacidade e representação",
+      4
+     ],
+     [
+      "Escrituras imobiliárias: compra e venda, doação, permuta e dação; certidões e tributos",
+      4.5
+     ],
+     [
+      "Procurações, substabelecimentos e revogação",
+      2
+     ]
+    ]
+   },
+   {
+    "name": "Família, sucessões e autenticidade",
+    "t": [
+     [
+      "Testamento público, cerrado e codicilo; aprovação e revogação",
+      4
+     ],
+     [
+      "Inventário, partilha, divórcio e dissolução de união estável extrajudiciais",
+      4.5
+     ],
+     [
+      "Ata notarial, inclusive para usucapião e adjudicação compulsória",
+      3
+     ],
+     [
+      "Reconhecimento de firma, autenticação de cópias e apostilamento",
+      2.5
+     ]
+    ]
+   },
+   {
+    "name": "Notariado eletrônico e temas avançados",
+    "t": [
+     [
+      "Atos notariais eletrônicos e e-Notariado",
+      3
+     ],
+     [
+      "Pacto antenupcial, união estável, diretivas antecipadas e escrituras declaratórias",
+      2.5
+     ],
+     [
+      "Garantias nos atos notariais e Marco Legal das Garantias (Lei 14.711/2023)",
+      3
+     ],
+     [
+      "Conciliação e mediação nas serventias",
+      1.5
+     ]
+    ]
+   }
+  ]
+ },
+ "ri": {
+  "name": "Registro de Imóveis",
+  "short": "RI",
+  "rw": 1.25,
+  "book": "Registro de Imóveis",
+  "qc": 497,
+  "units": [
+   {
+    "name": "Sistema registral e matrícula",
+    "t": [
+     [
+      "Sistema registral imobiliário: atribuições, circunscrição e livros",
+      3
+     ],
+     [
+      "Princípios registrais: continuidade, especialidade, prioridade e legalidade",
+      3.5
+     ],
+     [
+      "Matrícula: abertura, requisitos, fusão e desmembramento",
+      3.5
+     ],
+     [
+      "Atos de registro e de averbação (art. 167 da Lei 6.015/73)",
+      4
+     ]
+    ]
+   },
+   {
+    "name": "Processo de registro",
+    "t": [
+     [
+      "Protocolo, prenotação, prazos e qualificação registral",
+      3.5
+     ],
+     [
+      "Nota devolutiva e procedimento de dúvida",
+      3
+     ],
+     [
+      "Títulos judiciais, administrativos e particulares; cancelamentos",
+      3
+     ],
+     [
+      "Retificação de registro, georreferenciamento e imóveis rurais",
+      4
+     ]
+    ]
+   },
+   {
+    "name": "Parcelamento, incorporação e condomínio",
+    "t": [
+     [
+      "Parcelamento do solo urbano (Lei 6.766/79): loteamento e desmembramento",
+      4
+     ],
+     [
+      "Incorporação imobiliária e patrimônio de afetação (Lei 4.591/64)",
+      4
+     ],
+     [
+      "Condomínio edilício, condomínio de lotes, multipropriedade e direito de laje",
+      3
+     ],
+     [
+      "Regularização fundiária urbana — Reurb (Lei 13.465/2017)",
+      4
+     ]
+    ]
+   },
+   {
+    "name": "Garantias e procedimentos extrajudiciais",
+    "t": [
+     [
+      "Alienação fiduciária de imóveis (Lei 9.514/97): constituição, consolidação e leilões",
+      4
+     ],
+     [
+      "Hipoteca, cédulas de crédito e Marco Legal das Garantias",
+      3.5
+     ],
+     [
+      "Usucapião extrajudicial e adjudicação compulsória extrajudicial",
+      4
+     ],
+     [
+      "Penhora, indisponibilidade de bens, bem de família e averbações premonitórias",
+      3
+     ],
+     [
+      "Registro eletrônico de imóveis: ONR e SERP",
+      2
+     ]
+    ]
+   }
+  ]
+ },
+ "prot": {
+  "name": "Tabelionato de Protesto",
+  "short": "Protesto",
+  "rw": 1.25,
+  "book": "Protesto",
+  "qc": 497,
+  "units": [
+   {
+    "name": "Procedimento do protesto",
+    "t": [
+     [
+      "Lei 9.492/97: conceito, finalidades, competência e distribuição",
+      2.5
+     ],
+     [
+      "Títulos e documentos de dívida protestáveis; certidões de dívida ativa e sentenças",
+      3
+     ],
+     [
+      "Apresentação, protocolização, qualificação e prazos",
+      2.5
+     ],
+     [
+      "Intimação, edital, desistência e sustação",
+      3
+     ],
+     [
+      "Pagamento, lavratura e registro do protesto; espécies de protesto",
+      2.5
+     ]
+    ]
+   },
+   {
+    "name": "Efeitos, cancelamento e serviços eletrônicos",
+    "t": [
+     [
+      "Cancelamento, averbações, retificações e certidões",
+      2.5
+     ],
+     [
+      "Protesto para fins falimentares; efeitos sobre mora e prescrição",
+      2
+     ],
+     [
+      "CENPROT e medidas de incentivo à quitação e à renegociação de dívidas",
+      2.5
+     ]
+    ]
+   }
+  ]
+ },
+ "rtd": {
+  "name": "RTD e RCPJ",
+  "short": "RTD/RCPJ",
+  "rw": 1.25,
+  "book": "RTD/RCPJ",
+  "qc": 497,
+  "units": [
+   {
+    "name": "Registro de Títulos e Documentos",
+    "t": [
+     [
+      "Atribuições, livros e princípios do RTD",
+      2
+     ],
+     [
+      "Registro para conservação, eficácia contra terceiros e atribuição residual",
+      3
+     ],
+     [
+      "Notificações extrajudiciais",
+      2
+     ],
+     [
+      "Garantias sobre bens móveis: penhor, alienação fiduciária e contratos",
+      2.5
+     ],
+     [
+      "Competência territorial e registro eletrônico",
+      2
+     ]
+    ]
+   },
+   {
+    "name": "Registro Civil das Pessoas Jurídicas",
+    "t": [
+     [
+      "Atribuições e livros do RCPJ; pessoas jurídicas registráveis",
+      2.5
+     ],
+     [
+      "Associações, fundações, organizações religiosas e partidos políticos",
+      3
+     ],
+     [
+      "Sociedades simples: alterações, dissolução e cancelamento",
+      2.5
+     ],
+     [
+      "Matrícula de jornais, periódicos, oficinas impressoras e radiodifusão",
+      1.5
+     ]
+    ]
+   }
+  ]
+ },
+ "civil": {
+  "name": "Direito Civil",
+  "short": "Civil",
+  "rw": 1,
+  "book": "Direito Civil",
+  "qc": 8,
+  "units": [
+   {
+    "name": "LINDB e Parte Geral",
+    "t": [
+     [
+      "LINDB: vigência, aplicação e interpretação das normas",
+      2.5
+     ],
+     [
+      "Pessoas naturais: personalidade, capacidade, direitos da personalidade e ausência",
+      4
+     ],
+     [
+      "Pessoas jurídicas e desconsideração da personalidade",
+      3
+     ],
+     [
+      "Domicílio e bens",
+      2.5
+     ],
+     [
+      "Negócio jurídico: planos, representação, condição, termo e encargo",
+      3.5
+     ],
+     [
+      "Defeitos e invalidade do negócio jurídico",
+      3.5
+     ],
+     [
+      "Atos ilícitos, prescrição, decadência e prova",
+      3.5
+     ]
+    ]
+   },
+   {
+    "name": "Obrigações",
+    "t": [
+     [
+      "Modalidades das obrigações",
+      3
+     ],
+     [
+      "Transmissão das obrigações; adimplemento e extinção",
+      3.5
+     ],
+     [
+      "Inadimplemento, mora, perdas e danos, cláusula penal e arras",
+      3
+     ]
+    ]
+   },
+   {
+    "name": "Contratos e responsabilidade civil",
+    "t": [
+     [
+      "Teoria geral dos contratos: formação, princípios, vícios, evicção e extinção",
+      4.5
+     ],
+     [
+      "Compra e venda, permuta e doação",
+      4
+     ],
+     [
+      "Locação, comodato, mútuo, prestação de serviço e empreitada",
+      3
+     ],
+     [
+      "Mandato, fiança, transação e demais contratos em espécie",
+      3
+     ],
+     [
+      "Responsabilidade civil",
+      3.5
+     ]
+    ]
+   },
+   {
+    "name": "Direito das Coisas",
+    "t": [
+     [
+      "Posse: classificação, aquisição, efeitos e perda",
+      3
+     ],
+     [
+      "Propriedade: função social, aquisição e perda; usucapião",
+      4.5
+     ],
+     [
+      "Direitos de vizinhança e condomínio geral, edilício e de lotes; multipropriedade",
+      4
+     ],
+     [
+      "Superfície, servidões, usufruto, uso, habitação e laje",
+      3.5
+     ],
+     [
+      "Direitos reais de garantia: penhor, hipoteca, anticrese e propriedade fiduciária",
+      4
+     ]
+    ]
+   },
+   {
+    "name": "Família",
+    "t": [
+     [
+      "Casamento: capacidade, impedimentos, habilitação, celebração e invalidade",
+      3.5
+     ],
+     [
+      "Regimes de bens e pacto antenupcial",
+      4
+     ],
+     [
+      "Dissolução do casamento; união estável",
+      3
+     ],
+     [
+      "Parentesco, filiação, reconhecimento de filhos e adoção",
+      3
+     ],
+     [
+      "Poder familiar, alimentos e bem de família",
+      2.5
+     ],
+     [
+      "Tutela, curatela e tomada de decisão apoiada",
+      2
+     ]
+    ]
+   },
+   {
+    "name": "Sucessões",
+    "t": [
+     [
+      "Sucessão em geral: abertura, aceitação, renúncia, indignidade e deserdação",
+      3.5
+     ],
+     [
+      "Sucessão legítima: ordem de vocação, herdeiros necessários e representação",
+      4
+     ],
+     [
+      "Sucessão testamentária: formas, disposições, legados, substituições e revogação",
+      4
+     ],
+     [
+      "Inventário, partilha, colação e sonegados",
+      3
+     ]
+    ]
+   }
+  ]
+ },
+ "consti": {
+  "name": "Direito Constitucional",
+  "short": "Constitucional",
+  "rw": 0.8,
+  "book": "Direito Constitucional",
+  "qc": null,
+  "units": [
+   {
+    "name": "Teoria e direitos fundamentais",
+    "t": [
+     [
+      "Teoria da Constituição, poder constituinte e hermenêutica",
+      3
+     ],
+     [
+      "Princípios fundamentais; direitos e garantias individuais e coletivos",
+      4.5
+     ],
+     [
+      "Remédios constitucionais",
+      2.5
+     ],
+     [
+      "Direitos sociais, nacionalidade e direitos políticos",
+      3
+     ]
+    ]
+   },
+   {
+    "name": "Organização do Estado e dos Poderes",
+    "t": [
+     [
+      "Organização do Estado e repartição de competências",
+      3.5
+     ],
+     [
+      "Administração Pública na Constituição",
+      2.5
+     ],
+     [
+      "Poder Legislativo e processo legislativo",
+      3
+     ],
+     [
+      "Poder Executivo, Poder Judiciário, CNJ e funções essenciais à Justiça",
+      4
+     ]
+    ]
+   },
+   {
+    "name": "Controle e ordens constitucionais",
+    "t": [
+     [
+      "Controle de constitucionalidade: difuso, concentrado e súmula vinculante",
+      4.5
+     ],
+     [
+      "Sistema tributário nacional e finanças públicas na Constituição",
+      2
+     ],
+     [
+      "Ordem econômica; política urbana, agrária e fundiária",
+      2.5
+     ],
+     [
+      "Ordem social: família, criança, adolescente, idoso e pessoa com deficiência",
+      2.5
+     ]
+    ]
+   }
+  ]
+ },
+ "adm": {
+  "name": "Direito Administrativo",
+  "short": "Administrativo",
+  "rw": 0.8,
+  "book": "Direito Administrativo",
+  "qc": 2,
+  "units": [
+   {
+    "name": "Regime, organização e atos",
+    "t": [
+     [
+      "Regime jurídico-administrativo e princípios",
+      2.5
+     ],
+     [
+      "Organização administrativa: administração direta, indireta e terceiro setor",
+      3
+     ],
+     [
+      "Poderes administrativos",
+      2
+     ],
+     [
+      "Atos administrativos: elementos, atributos, espécies e extinção",
+      3.5
+     ]
+    ]
+   },
+   {
+    "name": "Agentes, contratos e serviços",
+    "t": [
+     [
+      "Agentes públicos e regime dos delegatários",
+      3
+     ],
+     [
+      "Licitações e contratos administrativos (Lei 14.133/2021)",
+      4
+     ],
+     [
+      "Serviços públicos: concessão, permissão e delegação",
+      3
+     ],
+     [
+      "Bens públicos e intervenção do Estado na propriedade; desapropriação",
+      3.5
+     ]
+    ]
+   },
+   {
+    "name": "Controle e responsabilidade",
+    "t": [
+     [
+      "Responsabilidade civil do Estado e de notários e registradores",
+      3
+     ],
+     [
+      "Improbidade administrativa (Lei 8.429/92)",
+      2.5
+     ],
+     [
+      "Processo administrativo (Lei 9.784/99) e controle da Administração",
+      2.5
+     ]
+    ]
+   }
+  ]
+ },
+ "trib": {
+  "name": "Direito Tributário",
+  "short": "Tributário",
+  "rw": 0.8,
+  "book": "Direito Tributário",
+  "qc": null,
+  "units": [
+   {
+    "name": "Sistema e obrigação tributária",
+    "t": [
+     [
+      "Sistema Tributário Nacional, competência e espécies tributárias",
+      3
+     ],
+     [
+      "Limitações ao poder de tributar: princípios e imunidades",
+      3
+     ],
+     [
+      "Obrigação tributária, fato gerador, sujeição passiva e responsabilidade de terceiros",
+      3.5
+     ],
+     [
+      "Crédito tributário: lançamento, suspensão, extinção e exclusão; garantias e privilégios",
+      4
+     ]
+    ]
+   },
+   {
+    "name": "Tributos da atividade notarial e registral",
+    "t": [
+     [
+      "ITBI e ITCMD",
+      3.5
+     ],
+     [
+      "IPTU e ITR; certidões fiscais nos atos notariais e registrais",
+      2
+     ],
+     [
+      "Emolumentos como taxa; ISS sobre serviços notariais e de registro",
+      2.5
+     ],
+     [
+      "Imposto de renda do delegatário, livro-caixa e obrigações acessórias",
+      2.5
+     ],
+     [
+      "Reforma tributária: IBS, CBS e Imposto Seletivo",
+      3
+     ]
+    ]
+   }
+  ]
+ },
+ "pcivil": {
+  "name": "Direito Processual Civil",
+  "short": "Processo Civil",
+  "rw": 0.8,
+  "book": "Processo Civil",
+  "qc": null,
+  "units": [
+   {
+    "name": "Parte geral do CPC",
+    "t": [
+     [
+      "Normas fundamentais, jurisdição, ação e competência",
+      3
+     ],
+     [
+      "Sujeitos do processo, litisconsórcio e intervenção de terceiros",
+      2.5
+     ],
+     [
+      "Atos processuais, prazos, comunicação e nulidades",
+      2.5
+     ],
+     [
+      "Tutela provisória",
+      2
+     ]
+    ]
+   },
+   {
+    "name": "Conhecimento, execução e procedimentos especiais",
+    "t": [
+     [
+      "Procedimento comum, provas, sentença e coisa julgada",
+      4
+     ],
+     [
+      "Recursos e precedentes",
+      3
+     ],
+     [
+      "Cumprimento de sentença e execução; penhora, averbações e fraude à execução",
+      3.5
+     ],
+     [
+      "Procedimentos especiais e jurisdição voluntária: inventário, divórcio, usucapião e interdição",
+      3.5
+     ]
+    ]
+   }
+  ]
+ },
+ "emp": {
+  "name": "Direito Empresarial",
+  "short": "Empresarial",
+  "rw": 0.8,
+  "book": "Direito Empresarial",
+  "qc": null,
+  "units": [
+   {
+    "name": "Empresa e sociedades",
+    "t": [
+     [
+      "Teoria da empresa, empresário, estabelecimento e nome empresarial",
+      3
+     ],
+     [
+      "Registro público de empresas e obrigações do empresário",
+      2
+     ],
+     [
+      "Sociedades: teoria geral, sociedade simples e limitada",
+      4
+     ],
+     [
+      "Sociedade anônima, demais tipos e operações societárias",
+      3.5
+     ]
+    ]
+   },
+   {
+    "name": "Títulos de crédito, contratos e crise da empresa",
+    "t": [
+     [
+      "Títulos de crédito: teoria geral, endosso, aval e protesto",
+      4
+     ],
+     [
+      "Letra de câmbio, nota promissória, cheque e duplicata; títulos eletrônicos",
+      4
+     ],
+     [
+      "Cédulas de crédito e títulos do agronegócio",
+      2.5
+     ],
+     [
+      "Contratos empresariais: alienação fiduciária, arrendamento mercantil, franquia e fomento mercantil",
+      2.5
+     ],
+     [
+      "Recuperação judicial, extrajudicial e falência (Lei 11.101/2005)",
+      4
+     ]
+    ]
+   }
+  ]
+ }
+}
